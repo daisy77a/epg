@@ -4,6 +4,86 @@
     <display-name lang="en">TV1</display-name>
     <url>https://www.mana2.my</url>
   </channel>
+  <channel id="2.mytv">
+    <display-name lang="en">TV2</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="26.mytv">
+    <display-name lang="en">TV ALHIJRAH</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="3.mytv">
+    <display-name lang="en">SUKAN RTM</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="4.mytv">
+    <display-name lang="en">BERITA RTM</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="61.mytv">
+    <display-name lang="en">TVS</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="25.mytv">
+    <display-name lang="en">TV6</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="5.mytv">
+    <display-name lang="en">TV OKEY</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="27.mytv">
+    <display-name lang="en">BERNAMA</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="28.mytv">
+    <display-name lang="en">SUKE TV</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="45.mytv">
+    <display-name lang="en">SELANGOR TV</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="20.mytv">
+    <display-name lang="en">TV IKIM</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="46.mytv">
+    <display-name lang="en">MY CINEMA EUROPE</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="41.mytv">
+    <display-name lang="en">HORIZON SPORTS</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="62.mytv">
+    <display-name lang="en">CNA</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="43.mytv">
+    <display-name lang="en">MOTOR RACING TV</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="70.mytv">
+    <display-name lang="en">TaiwanPlus</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="69.mytv">
+    <display-name lang="en">DW</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="30.mytv">
+    <display-name lang="en">TVRI NASIONAL</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="31.mytv">
+    <display-name lang="en">TVRI WORLD</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
+  <channel id="68.mytv">
+    <display-name lang="en">MYTV</display-name>
+    <url>https://www.mana2.my</url>
+  </channel>
   <programme start="20240430160000" stop="20240430163000" channel="1.mytv">
     <title lang="en">BERITA TENGAH MALAM</title>
     <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
@@ -1080,10 +1160,6 @@
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="2.mytv">
-    <display-name lang="en">TV2</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430163000" channel="2.mytv">
     <title lang="en">Asian Culture</title>
     <desc lang="en">Majalah berbentuk Travelog.</desc>
@@ -1934,10 +2010,6 @@ Pelakon : Wan Hanafi Su, Sabri Yunus, Laila Nasir, Kuza Kuna, Issey Fazlisham, A
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="26.mytv">
-    <display-name lang="en">TV ALHIJRAH</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430163000" channel="26.mytv">
     <title lang="en">Cinta Ilmu 2024</title>
     <desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci</desc>
@@ -2846,10 +2918,6 @@ Pelakon : Wan Hanafi Su, Sabri Yunus, Laila Nasir, Kuza Kuna, Issey Fazlisham, A
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="3.mytv">
-    <display-name lang="en">SUKAN RTM</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430153000" stop="20240430163000" channel="3.mytv">
     <title lang="en">Piala Uber 2024 (Ulangan)</title>
     <desc lang="en">Saksikan semula Kejohanan Piala Uber 2024 yang berlangsung pada 27 April sehingga 5 Mei</desc>
@@ -3538,10 +3606,6 @@ Pelakon : Wan Hanafi Su, Sabri Yunus, Laila Nasir, Kuza Kuna, Issey Fazlisham, A
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="4.mytv">
-    <display-name lang="en">BERITA RTM</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430163000" channel="4.mytv">
     <title lang="en">BERITA TENGAH MALAM</title>
     <desc lang="en">Berita akhir yang membawakan perkembangan berita mutakhir dari seluruh negara.</desc>
@@ -4966,10 +5030,6 @@ Pelakon : Wan Hanafi Su, Sabri Yunus, Laila Nasir, Kuza Kuna, Issey Fazlisham, A
     <title lang="en">Cuit Sikit. Jangan Sentap 2024</title>
     <desc lang="en">Saksikan rancangan bicarawara berbentuk kerohanian 'Cuit Sikit, Jangan Sentap'.</desc>
   </programme>
-  <channel id="61.mytv">
-    <display-name lang="en">TVS</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430153000" stop="20240430163000" channel="61.mytv">
     <title lang="en">Descendent of The Sun</title>
     <desc lang="en">This drama tells of the love story that develops between a surgeon and a special forces officer.</desc>
@@ -6040,10 +6100,6 @@ dan tradisi..</desc>
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="25.mytv">
-    <display-name lang="en">TV6</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430170000" channel="25.mytv">
     <title lang="en">Dari Mata Arisa</title>
     <desc lang="en">Saksikan lakonan Ayu Raudhah, Syed Aiman, Tasya Aziz, Nabila Huda, Shahruddin Thambi, Linda Hashim. Ijoy Azahari, Maizurah Hamzah, Mahmood Ali Basha, Fadzilah Mansor, Arman Yadi, Zack Kool, Ashraf Muslim, Salina Saibi.</desc>
@@ -6716,10 +6772,6 @@ dan tradisi..</desc>
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="5.mytv">
-    <display-name lang="en">TV OKEY</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430163000" channel="5.mytv">
     <title lang="en">Klip Video 30 Minit</title>
     <desc lang="en">Seleksi klip - klip video terbaik untuk anda.</desc>
@@ -7636,10 +7688,6 @@ dan tradisi..</desc>
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="27.mytv">
-    <display-name lang="en">BERNAMA</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430170000" channel="27.mytv">
     <title lang="en">Ruang Bicara</title>
     <desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
@@ -8969,10 +9017,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <title lang="en">Tamil News</title>
     <desc lang="en">Laporan terkini berita dari dalam dan luar negara</desc>
   </programme>
-  <channel id="28.mytv">
-    <display-name lang="en">SUKE TV</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430163000" channel="28.mytv">
     <title lang="en">Suke Hati</title>
     <desc lang="en">Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
@@ -9697,10 +9741,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <title lang="en">(L) VC</title>
     <desc lang="en">Program muzik secara langsung, mempersembahkan video muzik paling trend dalam industri.</desc>
   </programme>
-  <channel id="45.mytv">
-    <display-name lang="en">SELANGOR TV</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430170000" channel="45.mytv">
     <title lang="en">Program @ 12:00 AM</title>
     <desc lang="en"/>
@@ -10373,10 +10413,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="20.mytv">
-    <display-name lang="en">TV IKIM</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430170000" channel="20.mytv">
     <title lang="en">Program @ 12:00 AM</title>
     <desc lang="en"/>
@@ -11049,10 +11085,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="46.mytv">
-    <display-name lang="en">MY CINEMA EUROPE</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430143500" stop="20240430163000" channel="46.mytv">
     <title lang="en">Before the Fall</title>
     <desc lang="en">A young man' boxing skills gets him in an elite Nazi high school in 1942. He enrolls against his dad's wish, but it's not what he expected.</desc>
@@ -11725,10 +11757,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="41.mytv">
-    <display-name lang="en">HORIZON SPORTS</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430153600" stop="20240430162900" channel="41.mytv">
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
@@ -13493,10 +13521,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <title lang="en">Program @ 10:05 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="62.mytv">
-    <display-name lang="en">CNA</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430170000" channel="62.mytv">
     <title lang="en">World Tonight</title>
     <desc lang="en">A wrap of the day's events in Asia, and a look-ahead at the US and Europe.</desc>
@@ -14489,10 +14513,6 @@ East Asia
     <title lang="en">Undercover Asia S10</title>
     <desc lang="en">Some herald it as the ultimate solution to the tobacco crisis. Others believe that it could trigger a new public health crisis of its own. Why has vaping, the purportedly safer alternative to smoking, caused such polarising views?</desc>
   </programme>
-  <channel id="43.mytv">
-    <display-name lang="en">MOTOR RACING TV</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430155100" stop="20240430165900" channel="43.mytv">
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
@@ -15565,10 +15585,6 @@ East Asia
     <title lang="en">Program @ 10:36 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="70.mytv">
-    <display-name lang="en">TaiwanPlus</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430170000" channel="70.mytv">
     <title lang="en">Program @ 12:00 AM</title>
     <desc lang="en"/>
@@ -16241,10 +16257,6 @@ East Asia
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="69.mytv">
-    <display-name lang="en">DW</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430163000" channel="69.mytv">
     <title lang="en">DW News</title>
     <desc lang="en">News</desc>
@@ -17013,10 +17025,6 @@ East Asia
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="30.mytv">
-    <display-name lang="en">TVRI NASIONAL</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430170000" channel="30.mytv">
     <title lang="en">Program @ 12:00 AM</title>
     <desc lang="en"/>
@@ -17689,10 +17697,6 @@ East Asia
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="31.mytv">
-    <display-name lang="en">TVRI WORLD</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430170000" channel="31.mytv">
     <title lang="en">Program @ 12:00 AM</title>
     <desc lang="en"/>
@@ -18365,10 +18369,6 @@ East Asia
     <title lang="en">Program @ 11:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <channel id="68.mytv">
-    <display-name lang="en">MYTV</display-name>
-    <url>https://www.mana2.my</url>
-  </channel>
   <programme start="20240430160000" stop="20240430170000" channel="68.mytv">
     <title lang="en">Program @ 12:00 AM</title>
     <desc lang="en"/>
