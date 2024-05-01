@@ -4,38 +4,6 @@
     <display-name lang="en">TV3</display-name>
     <url>https://tonton.com.my</url>
   </channel>
-  <channel id="2.tonton">
-    <display-name lang="en">NTV7</display-name>
-    <url>https://tonton.com.my</url>
-  </channel>
-  <channel id="3.tonton">
-    <display-name lang="en">8TV</display-name>
-    <url>https://tonton.com.my</url>
-  </channel>
-  <channel id="4.tonton">
-    <display-name lang="en">TV9</display-name>
-    <url>https://tonton.com.my</url>
-  </channel>
-  <channel id="5.tonton">
-    <display-name lang="en">Drama Sangat</display-name>
-    <url>https://tonton.com.my</url>
-  </channel>
-  <channel id="6.tonton">
-    <display-name lang="en">tvN</display-name>
-    <url>https://tonton.com.my</url>
-  </channel>
-  <channel id="7.tonton">
-    <display-name lang="en">tvN Movies</display-name>
-    <url>https://tonton.com.my</url>
-  </channel>
-  <channel id="8.tonton">
-    <display-name lang="en">Animax</display-name>
-    <url>https://tonton.com.my</url>
-  </channel>
-  <channel id="9.tonton">
-    <display-name lang="en">GEM</display-name>
-    <url>https://tonton.com.my</url>
-  </channel>
   <programme start="20240502000000" stop="20240502000000" channel="1.tonton">
     <title lang="en">NIGHTLINE ( 2024 )</title>
     <desc lang="en"/>
@@ -732,6 +700,10 @@
     <title lang="en">No listing available</title>
     <desc lang="en">No listing available</desc>
   </programme>
+  <channel id="2.tonton">
+    <display-name lang="en">NTV7</display-name>
+    <url>https://tonton.com.my</url>
+  </channel>
   <programme start="20240502000000" stop="20240502000000" channel="2.tonton">
     <title lang="en">HOT FM@ntv7</title>
     <desc lang="en"/>
@@ -1204,6 +1176,10 @@
     <title lang="en">No listing available</title>
     <desc lang="en">No listing available</desc>
   </programme>
+  <channel id="3.tonton">
+    <display-name lang="en">8TV</display-name>
+    <url>https://tonton.com.my</url>
+  </channel>
   <programme start="20240501233000" stop="20240501233000" channel="3.tonton">
     <title lang="en">CROUCHING TIGER HIDDEN GHOST</title>
     <desc lang="en">Xiang Ge went to find Xiao Yun, and wants her to help hide his looks, returning to his usual appearance. Xiao Yun is scared, and goes to A-Lun for protection, but has caused a misunderstanding between A-Lun and Angie.</desc>
@@ -1720,6 +1696,10 @@
     <title lang="en">No listing available</title>
     <desc lang="en">No listing available</desc>
   </programme>
+  <channel id="4.tonton">
+    <display-name lang="en">TV9</display-name>
+    <url>https://tonton.com.my</url>
+  </channel>
   <programme start="20240502000000" stop="20240502000000" channel="4.tonton">
     <title lang="en">WOW SHOP</title>
     <desc lang="en"/>
@@ -2336,6 +2316,10 @@
     <title lang="en">No listing available</title>
     <desc lang="en">No listing available</desc>
   </programme>
+  <channel id="5.tonton">
+    <display-name lang="en">Drama Sangat</display-name>
+    <url>https://tonton.com.my</url>
+  </channel>
   <programme start="20240502000000" stop="20240502000000" channel="5.tonton">
     <title lang="en">WOW SHOP</title>
     <desc lang="en"/>
@@ -2812,6 +2796,10 @@
     <title lang="en">No listing available</title>
     <desc lang="en">No listing available</desc>
   </programme>
+  <channel id="6.tonton">
+    <display-name lang="en">tvN</display-name>
+    <url>https://tonton.com.my</url>
+  </channel>
   <programme start="20240501223000" stop="20240501223000" channel="6.tonton">
     <title lang="en">I-LAND2 : N/a</title>
     <desc lang="en">Girl version of ENHYPEN is coming! The ultimate survival variety program by top producer TEDDY, following the creation of the next generation K-pop girl group.</desc>
@@ -3268,6 +3256,10 @@
     <title lang="en">EXchange 3</title>
     <desc lang="en">Dating reality show &lt;EXchange&gt; is back with season 3! When the ex-couples reunite and start building relationships with each other, will they get back with their ex or date someone new?</desc>
   </programme>
+  <channel id="7.tonton">
+    <display-name lang="en">tvN Movies</display-name>
+    <url>https://tonton.com.my</url>
+  </channel>
   <programme start="20240501234000" stop="20240501234000" channel="7.tonton">
     <title lang="en">DA CAPO</title>
     <desc lang="en">A frustrated songwriter met his old bandmate and a school band &quot;Destroyer&quot;, who inspired him to complete an unfinished track...</desc>
@@ -3580,6 +3572,10 @@
     <title lang="en">THE GLORIOUS MY REVENGE</title>
     <desc lang="en">Detective Ryu lost his beloved son in a hit-and-run accident. As the statute of limitations passed without finding the criminal, he ran into the murderer of his son.</desc>
   </programme>
+  <channel id="8.tonton">
+    <display-name lang="en">Animax</display-name>
+    <url>https://tonton.com.my</url>
+  </channel>
   <programme start="20240502000000" stop="20240502000000" channel="8.tonton">
     <title lang="en">BLACK CLOVER SEASON 1</title>
     <desc lang="en">Asta and others are sent to different places in the temple by Gifso's magic. Mages of the seabed temple appear.</desc>
@@ -4688,6 +4684,10 @@
     <title lang="en">BLACK CLOVER SEASON 1</title>
     <desc lang="en">Asta, Finral and Charmy visit the Capital with Yami after completing the mission requested by Julius, the Wizard King.</desc>
   </programme>
+  <channel id="9.tonton">
+    <display-name lang="en">GEM</display-name>
+    <url>https://tonton.com.my</url>
+  </channel>
   <programme start="20240501234000" stop="20240501234000" channel="9.tonton">
     <title lang="en">MY SENPAI IS ANNOYING</title>
     <desc lang="en">Futaba, Takeda, Momoko, Kazama, Natsumi, and Yuuto enjoy a game of basketball together.</desc>
