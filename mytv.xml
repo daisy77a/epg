@@ -56,77 +56,133 @@
     <title lang="en">Surah Al Rahman</title>
     <desc lang="en">Saksikan bacaan Surah Al-Rahman.</desc>
   </programme>
-  <programme start="20240430220000" stop="20240430230000" channel="1.mytv">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430220000" stop="20240430223000" channel="1.mytv">
+    <title lang="en">Seruan Haji 2024</title>
+    <desc lang="en">Menyusuri perjalanan mabrur duyufurahman dan persiapan tenaga kerja Tabung Haji dalam melaksanakan rukun islam ke lima. Mengetengahkan konsep istito'ah dan penjelasan panduan rukun dan wajib haji dalam perjalanan suci ini.</desc>
   </programme>
-  <programme start="20240430230000" stop="20240501000000" channel="1.mytv">
+  <programme start="20240430223000" stop="20240430230000" channel="1.mytv">
+    <title lang="en">Sari Alam</title>
+    <desc lang="en">Rancangan yang memaparkan pelbagai tumbuhan hijau dan tanaman botani yang menjadi makanan ruji di negara kita.</desc>
+  </programme>
+  <programme start="20240430230000" stop="20240430233000" channel="1.mytv">
+    <title lang="en">BERITA PAGI</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara</desc>
+  </programme>
+  <programme start="20240430233000" stop="20240430234400" channel="1.mytv">
     <title lang="en">Program @ 7:00 AM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240501000000" stop="20240501010000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430234400" stop="20240501000000" channel="1.mytv">
+    <title lang="en">LIVE : KANTA 744</title>
+    <desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
   </programme>
-  <programme start="20240501010000" stop="20240501020000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501000000" stop="20240501020000" channel="1.mytv">
+    <title lang="en">LIVE : SELAMAT PAGI MALAYSIA</title>
+    <desc lang="en">Selamat Pagi Malaysia rancangan bual bicara pagi dengan pelbagai segmen dan topik menarik merangkumi gaya hidup, isu semasa, pendidikan, ekonomi.</desc>
   </programme>
-  <programme start="20240501020000" stop="20240501030000" channel="1.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501020000" stop="20240501021500" channel="1.mytv">
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
   </programme>
-  <programme start="20240501030000" stop="20240501040000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501021500" stop="20240501033000" channel="1.mytv">
+    <title lang="en">LIVE : SAMBUTAN HARI PEKERJA</title>
+    <desc lang="en">Sambutan Hari Pekerja 2023</desc>
   </programme>
-  <programme start="20240501040000" stop="20240501050000" channel="1.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501033000" stop="20240501040000" channel="1.mytv">
+    <title lang="en">Kapsul Fisioterapi</title>
+    <desc lang="en">Kapsul Fisioterapi membincangkan kecederaan-kecederaan otot, tulang atau ligamen yang sering berlaku, cara rawatan serta langkah-langkah penjagaan.</desc>
   </programme>
-  <programme start="20240501050000" stop="20240501060000" channel="1.mytv">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501040000" stop="20240501040500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20240501060000" stop="20240501070000" channel="1.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501040500" stop="20240501043000" channel="1.mytv">
+    <title lang="en">Uniknya Desaku</title>
+    <desc lang="en">Menampilkan keunikkan kampung-kampung yang terdapat di Malaysia, dimana akan menerokai pelbagai jenis kegiatan menarik masyarakat setempat.</desc>
   </programme>
-  <programme start="20240501070000" stop="20240501080000" channel="1.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501043000" stop="20240501050000" channel="1.mytv">
+    <title lang="en">Santri Serumpun</title>
+    <desc lang="en">Memaparkan kisah seorang pengacara menjelajah ke beberapa buah daerah di Indonesia bertujuan membuat lawatan ke beberapa buah pesantren terpilih untuk mendapatkan maklumat dan gambaran lanjut berhubung dengan sejarah, keistim</desc>
   </programme>
-  <programme start="20240501080000" stop="20240501090000" channel="1.mytv">
+  <programme start="20240501050000" stop="20240501053000" channel="1.mytv">
+    <title lang="en">BERITA TENGAH HARI</title>
+    <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240501053000" stop="20240501060000" channel="1.mytv">
+    <title lang="en">Rehal Adik</title>
+    <desc lang="en">Rehal Adik mengisahkan sekumpulan kanak-kanak belajar bersama Ustaz Luqman</desc>
+  </programme>
+  <programme start="20240501060000" stop="20240501063000" channel="1.mytv">
+    <title lang="en">Kafe Kamus</title>
+    <desc lang="en">Drama sitkom kehidupan Pak Kamus yang mengusahakan sebuah kafe hipster sambil dibantu anaknya Chacha dan seorang pembantu bernama Jana. Pak Kamus suka bercerita mengenai bahasa Melayu.</desc>
+  </programme>
+  <programme start="20240501063000" stop="20240501070000" channel="1.mytv">
+    <title lang="en">Katalog Akuatik</title>
+    <desc lang="en">Sebuah majalah yang memaparkan kepelbagaian spesies akuatik yang terdapat di Malaysia.</desc>
+  </programme>
+  <programme start="20240501070000" stop="20240501070500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240501070500" stop="20240501080000" channel="1.mytv">
+    <title lang="en">Cuit Sikit. Jangan Sentap 2024</title>
+    <desc lang="en">Rancangan ini mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian bersama pengacara Hafiz Dolson, Irfan Syahmi dan Syairul Islam.</desc>
+  </programme>
+  <programme start="20240501080000" stop="20240501080500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240501083500" stop="20240501090000" channel="1.mytv">
     <title lang="en">Program @ 4:00 PM</title>
     <desc lang="en"/>
   </programme>
   <programme start="20240501090000" stop="20240501100000" channel="1.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">BERITA WILAYAH</title>
+    <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah semenanjung Malaysia dalam rangkuman berita terkini.</desc>
   </programme>
-  <programme start="20240501100000" stop="20240501110000" channel="1.mytv">
+  <programme start="20240501100000" stop="20240501103000" channel="1.mytv">
+    <title lang="en">Seruan Haji 2024</title>
+    <desc lang="en">Menyusuri perjalanan mabrur duyufurahman dan persiapan tenaga kerja Tabung Haji dalam melaksanakan rukun islam ke lima. Mengetengahkan konsep istito'ah dan penjelasan panduan rukun dan wajib haji dalam perjalanan suci ini.</desc>
+  </programme>
+  <programme start="20240501103000" stop="20240501104500" channel="1.mytv">
     <title lang="en">Program @ 6:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240501110000" stop="20240501120000" channel="1.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501104500" stop="20240501114400" channel="1.mytv">
+    <title lang="en">Ayat-ayat Halal</title>
+    <desc lang="en">Kisah seorang gadis kampung yang berdepan dengan konflik kerjaya, keluarga dan pilihan dalam hidup.</desc>
   </programme>
-  <programme start="20240501120000" stop="20240501130000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501120000" stop="20240501123000" channel="1.mytv">
+    <title lang="en">BERITA PERDANA</title>
+    <desc lang="en">Membawakan perkembangan terkini dari seluruh negara.</desc>
+  </programme>
+  <programme start="20240501123000" stop="20240501130000" channel="1.mytv">
+    <title lang="en">BERITA INGGERIS (MALAYSIA TONIGHT)</title>
+    <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
   <programme start="20240501130000" stop="20240501140000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">LIVE : DIARI RAWAT</title>
+    <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini.</desc>
   </programme>
-  <programme start="20240501140000" stop="20240501150000" channel="1.mytv">
+  <programme start="20240501140000" stop="20240501140500" channel="1.mytv">
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
+  </programme>
+  <programme start="20240501140500" stop="20240501143000" channel="1.mytv">
     <title lang="en">Program @ 10:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240501150000" stop="20240501160000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501143000" stop="20240501150000" channel="1.mytv">
+    <title lang="en">Rona Sabah (Sr.14) 2024</title>
+    <desc lang="en">Rancangan yang membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.</desc>
+  </programme>
+  <programme start="20240501150000" stop="20240501153000" channel="1.mytv">
+    <title lang="en">Kelas IT Kampung Ampas</title>
+    <desc lang="en">Cikgu Nina, seorang guru yang dilantik oleh JKKK Kampung Ampas untuk mengajar penduduk mengenai IT yang merupakan keperluan pada masa kini.</desc>
+  </programme>
+  <programme start="20240501153000" stop="20240501160000" channel="1.mytv">
+    <title lang="en">Smart Parents</title>
+    <desc lang="en">Sebuah rancangan motivasi TV yang akan membincangkan tentang tips ibubapa bijak anak hebat</desc>
   </programme>
   <programme start="20240430160000" stop="20240430163000" channel="1.mytv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -180,485 +236,777 @@
     <title lang="en">Surah Al Rahman</title>
     <desc lang="en">Saksikan bacaan Surah Al-Rahman.</desc>
   </programme>
-  <programme start="20240430220000" stop="20240430230000" channel="1.mytv">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430220000" stop="20240430223000" channel="1.mytv">
+    <title lang="en">Seruan Haji 2024</title>
+    <desc lang="en">Menyusuri perjalanan mabrur duyufurahman dan persiapan tenaga kerja Tabung Haji dalam melaksanakan rukun islam ke lima. Mengetengahkan konsep istito'ah dan penjelasan panduan rukun dan wajib haji dalam perjalanan suci ini.</desc>
   </programme>
-  <programme start="20240430230000" stop="20240501000000" channel="1.mytv">
+  <programme start="20240430223000" stop="20240430230000" channel="1.mytv">
+    <title lang="en">Sari Alam</title>
+    <desc lang="en">Rancangan yang memaparkan pelbagai tumbuhan hijau dan tanaman botani yang menjadi makanan ruji di negara kita.</desc>
+  </programme>
+  <programme start="20240430230000" stop="20240430233000" channel="1.mytv">
+    <title lang="en">BERITA PAGI</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara</desc>
+  </programme>
+  <programme start="20240430233000" stop="20240430234400" channel="1.mytv">
     <title lang="en">Program @ 7:00 AM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240501000000" stop="20240501010000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430234400" stop="20240501000000" channel="1.mytv">
+    <title lang="en">LIVE : KANTA 744</title>
+    <desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
   </programme>
-  <programme start="20240501010000" stop="20240501020000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501000000" stop="20240501020000" channel="1.mytv">
+    <title lang="en">LIVE : SELAMAT PAGI MALAYSIA</title>
+    <desc lang="en">Selamat Pagi Malaysia rancangan bual bicara pagi dengan pelbagai segmen dan topik menarik merangkumi gaya hidup, isu semasa, pendidikan, ekonomi.</desc>
   </programme>
-  <programme start="20240501020000" stop="20240501030000" channel="1.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501020000" stop="20240501021500" channel="1.mytv">
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
   </programme>
-  <programme start="20240501030000" stop="20240501040000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501021500" stop="20240501033000" channel="1.mytv">
+    <title lang="en">LIVE : SAMBUTAN HARI PEKERJA</title>
+    <desc lang="en">Sambutan Hari Pekerja 2023</desc>
   </programme>
-  <programme start="20240501040000" stop="20240501050000" channel="1.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501033000" stop="20240501040000" channel="1.mytv">
+    <title lang="en">Kapsul Fisioterapi</title>
+    <desc lang="en">Kapsul Fisioterapi membincangkan kecederaan-kecederaan otot, tulang atau ligamen yang sering berlaku, cara rawatan serta langkah-langkah penjagaan.</desc>
   </programme>
-  <programme start="20240501050000" stop="20240501060000" channel="1.mytv">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501040000" stop="20240501040500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20240501060000" stop="20240501070000" channel="1.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501040500" stop="20240501043000" channel="1.mytv">
+    <title lang="en">Uniknya Desaku</title>
+    <desc lang="en">Menampilkan keunikkan kampung-kampung yang terdapat di Malaysia, dimana akan menerokai pelbagai jenis kegiatan menarik masyarakat setempat.</desc>
   </programme>
-  <programme start="20240501070000" stop="20240501080000" channel="1.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501043000" stop="20240501050000" channel="1.mytv">
+    <title lang="en">Santri Serumpun</title>
+    <desc lang="en">Memaparkan kisah seorang pengacara menjelajah ke beberapa buah daerah di Indonesia bertujuan membuat lawatan ke beberapa buah pesantren terpilih untuk mendapatkan maklumat dan gambaran lanjut berhubung dengan sejarah, keistim</desc>
   </programme>
-  <programme start="20240501080000" stop="20240501090000" channel="1.mytv">
+  <programme start="20240501050000" stop="20240501053000" channel="1.mytv">
+    <title lang="en">BERITA TENGAH HARI</title>
+    <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240501053000" stop="20240501060000" channel="1.mytv">
+    <title lang="en">Rehal Adik</title>
+    <desc lang="en">Rehal Adik mengisahkan sekumpulan kanak-kanak belajar bersama Ustaz Luqman</desc>
+  </programme>
+  <programme start="20240501060000" stop="20240501063000" channel="1.mytv">
+    <title lang="en">Kafe Kamus</title>
+    <desc lang="en">Drama sitkom kehidupan Pak Kamus yang mengusahakan sebuah kafe hipster sambil dibantu anaknya Chacha dan seorang pembantu bernama Jana. Pak Kamus suka bercerita mengenai bahasa Melayu.</desc>
+  </programme>
+  <programme start="20240501063000" stop="20240501070000" channel="1.mytv">
+    <title lang="en">Katalog Akuatik</title>
+    <desc lang="en">Sebuah majalah yang memaparkan kepelbagaian spesies akuatik yang terdapat di Malaysia.</desc>
+  </programme>
+  <programme start="20240501070000" stop="20240501070500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240501070500" stop="20240501080000" channel="1.mytv">
+    <title lang="en">Cuit Sikit. Jangan Sentap 2024</title>
+    <desc lang="en">Rancangan ini mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian bersama pengacara Hafiz Dolson, Irfan Syahmi dan Syairul Islam.</desc>
+  </programme>
+  <programme start="20240501080000" stop="20240501080500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240501083500" stop="20240501090000" channel="1.mytv">
     <title lang="en">Program @ 4:00 PM</title>
     <desc lang="en"/>
   </programme>
   <programme start="20240501090000" stop="20240501100000" channel="1.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">BERITA WILAYAH</title>
+    <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah semenanjung Malaysia dalam rangkuman berita terkini.</desc>
   </programme>
-  <programme start="20240501100000" stop="20240501110000" channel="1.mytv">
+  <programme start="20240501100000" stop="20240501103000" channel="1.mytv">
+    <title lang="en">Seruan Haji 2024</title>
+    <desc lang="en">Menyusuri perjalanan mabrur duyufurahman dan persiapan tenaga kerja Tabung Haji dalam melaksanakan rukun islam ke lima. Mengetengahkan konsep istito'ah dan penjelasan panduan rukun dan wajib haji dalam perjalanan suci ini.</desc>
+  </programme>
+  <programme start="20240501103000" stop="20240501104500" channel="1.mytv">
     <title lang="en">Program @ 6:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240501110000" stop="20240501120000" channel="1.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501104500" stop="20240501114400" channel="1.mytv">
+    <title lang="en">Ayat-ayat Halal</title>
+    <desc lang="en">Kisah seorang gadis kampung yang berdepan dengan konflik kerjaya, keluarga dan pilihan dalam hidup.</desc>
   </programme>
-  <programme start="20240501120000" stop="20240501130000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501120000" stop="20240501123000" channel="1.mytv">
+    <title lang="en">BERITA PERDANA</title>
+    <desc lang="en">Membawakan perkembangan terkini dari seluruh negara.</desc>
+  </programme>
+  <programme start="20240501123000" stop="20240501130000" channel="1.mytv">
+    <title lang="en">BERITA INGGERIS (MALAYSIA TONIGHT)</title>
+    <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
   <programme start="20240501130000" stop="20240501140000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">LIVE : DIARI RAWAT</title>
+    <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini.</desc>
   </programme>
-  <programme start="20240501140000" stop="20240501150000" channel="1.mytv">
+  <programme start="20240501140000" stop="20240501140500" channel="1.mytv">
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
+  </programme>
+  <programme start="20240501140500" stop="20240501143000" channel="1.mytv">
     <title lang="en">Program @ 10:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240501150000" stop="20240501160000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501143000" stop="20240501150000" channel="1.mytv">
+    <title lang="en">Rona Sabah (Sr.14) 2024</title>
+    <desc lang="en">Rancangan yang membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.</desc>
   </programme>
-  <programme start="20240501160000" stop="20240501170000" channel="1.mytv">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501150000" stop="20240501153000" channel="1.mytv">
+    <title lang="en">Kelas IT Kampung Ampas</title>
+    <desc lang="en">Cikgu Nina, seorang guru yang dilantik oleh JKKK Kampung Ampas untuk mengajar penduduk mengenai IT yang merupakan keperluan pada masa kini.</desc>
   </programme>
-  <programme start="20240501170000" stop="20240501180000" channel="1.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501153000" stop="20240501160000" channel="1.mytv">
+    <title lang="en">Smart Parents</title>
+    <desc lang="en">Sebuah rancangan motivasi TV yang akan membincangkan tentang tips ibubapa bijak anak hebat</desc>
   </programme>
-  <programme start="20240501180000" stop="20240501190000" channel="1.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501160000" stop="20240501163000" channel="1.mytv">
+    <title lang="en">BERITA TENGAH MALAM</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240501190000" stop="20240501200000" channel="1.mytv">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501163000" stop="20240501170000" channel="1.mytv">
+    <title lang="en">Denai Warisan</title>
+    <desc lang="en">Denai Warisan adalah sebuah rancangan travelog yang membawa penonton untuk melihat kesan penjajahan Jepun di seluruh negara.</desc>
   </programme>
-  <programme start="20240501200000" stop="20240501210000" channel="1.mytv">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501170000" stop="20240501173000" channel="1.mytv">
+    <title lang="en">Sanding</title>
+    <desc lang="en">Sanding menampilkan informasi dan juga tip menarik dalam majlis perkahwinan.</desc>
   </programme>
-  <programme start="20240501210000" stop="20240501220000" channel="1.mytv">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501173000" stop="20240501180000" channel="1.mytv">
+    <title lang="en">Sari Alam</title>
+    <desc lang="en">Rancangan yang memaparkan pelbagai tumbuhan hijau dan tanaman botani yang menjadi makanan ruji di negara kita.</desc>
   </programme>
-  <programme start="20240501220000" stop="20240501230000" channel="1.mytv">
+  <programme start="20240501180000" stop="20240501183000" channel="1.mytv">
+    <title lang="en">Agropreneur Muda</title>
+    <desc lang="en">Saksikan dokumentari memaparkan usaha dan kejayaan usahawan muda.</desc>
+  </programme>
+  <programme start="20240501183000" stop="20240501190000" channel="1.mytv">
+    <title lang="en">Bakul Telur Emas</title>
+    <desc lang="en">Bakul Telur Emas sebuah rancangan yang membincangkan mengenai topik kewangan bersama pakar perunding kewangan.</desc>
+  </programme>
+  <programme start="20240501190000" stop="20240501193000" channel="1.mytv">
+    <title lang="en">Rona Sabah (Sr.14) 2024</title>
+    <desc lang="en">Rancangan yang membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.</desc>
+  </programme>
+  <programme start="20240501193000" stop="20240501200000" channel="1.mytv">
+    <title lang="en">Santri Serumpun</title>
+    <desc lang="en">Memaparkan kisah seorang pengacara menjelajah ke beberapa buah daerah di Indonesia bertujuan membuat lawatan ke beberapa buah pesantren terpilih untuk mendapatkan maklumat dan gambaran lanjut berhubung dengan sejarah, keistim</desc>
+  </programme>
+  <programme start="20240501200000" stop="20240501203000" channel="1.mytv">
+    <title lang="en">Pewaris Legasi</title>
+    <desc lang="en">Pewaris legasi memaparkan proses penyambungan ilmu kraf daripada seorang guru kepada murid yang akan meneruskan legasi yang kian luput ditelan zaman.</desc>
+  </programme>
+  <programme start="20240501203000" stop="20240501213000" channel="1.mytv">
+    <title lang="en">Kelmarin Cinta</title>
+    <desc lang="en">Drama bersiri menarik lakonan Shukri Yahya, Reen Rahim dan ramai lagi.</desc>
+  </programme>
+  <programme start="20240501213000" stop="20240501220000" channel="1.mytv">
+    <title lang="en">Surah Al Rahman</title>
+    <desc lang="en">Saksikan bacaan Surah Al-Rahman.</desc>
+  </programme>
+  <programme start="20240501220000" stop="20240501223000" channel="1.mytv">
+    <title lang="en">Seruan Haji 2024</title>
+    <desc lang="en">Menyusuri perjalanan mabrur duyufurahman dan persiapan tenaga kerja Tabung Haji dalam melaksanakan rukun islam ke lima. Mengetengahkan konsep istito'ah dan penjelasan panduan rukun dan wajib haji dalam perjalanan suci ini.</desc>
+  </programme>
+  <programme start="20240501223000" stop="20240501224500" channel="1.mytv">
+    <title lang="en">Sari Alam</title>
+    <desc lang="en">Rancangan yang memaparkan pelbagai tumbuhan hijau dan tanaman botani yang menjadi makanan ruji di negara kita.</desc>
+  </programme>
+  <programme start="20240501224500" stop="20240501230000" channel="1.mytv">
     <title lang="en">Program @ 6:00 AM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240501230000" stop="20240502000000" channel="1.mytv">
-    <title lang="en">Program @ 7:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501230000" stop="20240501234400" channel="1.mytv">
+    <title lang="en">BERITA PAGI</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara</desc>
   </programme>
-  <programme start="20240502000000" stop="20240502010000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501234400" stop="20240502000000" channel="1.mytv">
+    <title lang="en">LIVE : KANTA 744</title>
+    <desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
   </programme>
-  <programme start="20240502010000" stop="20240502020000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502000000" stop="20240502020000" channel="1.mytv">
+    <title lang="en">LIVE : SELAMAT PAGI MALAYSIA</title>
+    <desc lang="en">Selamat Pagi Malaysia rancangan bual bicara pagi dengan pelbagai segmen dan topik menarik merangkumi gaya hidup, isu semasa, pendidikan, ekonomi.</desc>
   </programme>
-  <programme start="20240502020000" stop="20240502030000" channel="1.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502020000" stop="20240502020500" channel="1.mytv">
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
   </programme>
-  <programme start="20240502030000" stop="20240502040000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502020500" stop="20240502023000" channel="1.mytv">
+    <title lang="en">Kapsul Fisioterapi</title>
+    <desc lang="en">Kapsul Fisioterapi membincangkan kecederaan-kecederaan otot, tulang atau ligamen yang sering berlaku, cara rawatan serta langkah-langkah penjagaan.</desc>
   </programme>
-  <programme start="20240502040000" stop="20240502050000" channel="1.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502030000" stop="20240502033000" channel="1.mytv">
+    <title lang="en">Bukan Jalan Biasa</title>
+    <desc lang="en">Dari Miri perjalanan diteruskan ke Empangan Bakun. Mat Redho di rumah terapung @ Jelatong yang merupakan rumah atas air dan terapung diikat atas tong kosong dan kayu balak.</desc>
   </programme>
-  <programme start="20240502050000" stop="20240502060000" channel="1.mytv">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502033000" stop="20240502040000" channel="1.mytv">
+    <title lang="en">Artificial Intelligence Of Malaysia</title>
+    <desc lang="en">Sebuah dokumentari yang memaparkan tentang Artificial Intelligence of Malaysia.</desc>
   </programme>
-  <programme start="20240502060000" stop="20240502070000" channel="1.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502040000" stop="20240502040500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20240502070000" stop="20240502080000" channel="1.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502040500" stop="20240502050000" channel="1.mytv">
+    <title lang="en">Rentas Peribumi</title>
+    <desc lang="en">Membawa penonton melihat aktiviti penduduk setempat yang menjana ikonomi dengan melakukan pelbagai pekerjaan yang boleh mendatangkan rezeki kepada mereka .Serta melihat Adat Resam penduduk di kawasan tersebut.</desc>
   </programme>
-  <programme start="20240502080000" stop="20240502090000" channel="1.mytv">
-    <title lang="en">Program @ 4:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502050000" stop="20240502053000" channel="1.mytv">
+    <title lang="en">BERITA TENGAH HARI</title>
+    <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240502053000" stop="20240502060000" channel="1.mytv">
+    <title lang="en">Bobo Dan Geng / Bobo Wawa &amp; Kura</title>
+    <desc lang="en">3 maskot haiwan iaitu Bobo, Wawa dan Kura mengembara bersama-sama untuk mengenali dan belajar tentang haiwan di lokasi terpilih. Mereka di iringi renjer yang bercerita tentang cerita rakyat, sejarah sesuatu k</desc>
+  </programme>
+  <programme start="20240502060000" stop="20240502063000" channel="1.mytv">
+    <title lang="en">Kafe Kamus</title>
+    <desc lang="en">Drama sitkom kehidupan Pak Kamus yang mengusahakan sebuah kafe hipster sambil dibantu anaknya Chacha dan seorang pembantu bernama Jana. Pak Kamus suka bercerita mengenai bahasa Melayu.</desc>
+  </programme>
+  <programme start="20240502063000" stop="20240502070000" channel="1.mytv">
+    <title lang="en">Katalog Akuatik</title>
+    <desc lang="en">Sebuah majalah yang memaparkan kepelbagaian spesies akuatik yang terdapat di Malaysia.</desc>
+  </programme>
+  <programme start="20240502070000" stop="20240502070500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240502070500" stop="20240502080000" channel="1.mytv">
+    <title lang="en">Diari Rawat 2024 (Ulangan)</title>
+    <desc lang="en">Saksikan siaran ulangan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
+  </programme>
+  <programme start="20240502080000" stop="20240502080500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240502080500" stop="20240502083000" channel="1.mytv">
+    <title lang="en">Rona Sabah (Sr.14) 2024</title>
+    <desc lang="en">Rancangan yang membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.</desc>
   </programme>
   <programme start="20240502090000" stop="20240502100000" channel="1.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">BERITA WILAYAH</title>
+    <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah semenanjung Malaysia dalam rangkuman berita terkini.</desc>
   </programme>
-  <programme start="20240502100000" stop="20240502110000" channel="1.mytv">
+  <programme start="20240502100000" stop="20240502103000" channel="1.mytv">
+    <title lang="en">Seruan Haji 2024</title>
+    <desc lang="en">Menyusuri perjalanan mabrur duyufurahman dan persiapan tenaga kerja Tabung Haji dalam melaksanakan rukun islam ke lima. Mengetengahkan konsep istito'ah dan penjelasan panduan rukun dan wajib haji dalam perjalanan suci ini.</desc>
+  </programme>
+  <programme start="20240502103000" stop="20240502104500" channel="1.mytv">
     <title lang="en">Program @ 6:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240502110000" stop="20240502120000" channel="1.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502104500" stop="20240502114400" channel="1.mytv">
+    <title lang="en">Ayat-ayat Halal</title>
+    <desc lang="en">Kisah seorang gadis kampung yang berdepan dengan konflik kerjaya, keluarga dan pilihan dalam hidup.</desc>
   </programme>
-  <programme start="20240502120000" stop="20240502130000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502120000" stop="20240502123000" channel="1.mytv">
+    <title lang="en">BERITA PERDANA</title>
+    <desc lang="en">Membawakan perkembangan terkini dari seluruh negara.</desc>
+  </programme>
+  <programme start="20240502123000" stop="20240502130000" channel="1.mytv">
+    <title lang="en">BERITA INGGERIS (MALAYSIA TONIGHT)</title>
+    <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
   <programme start="20240502130000" stop="20240502140000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">LIVE : FORUM PERDANA EHWAL ISLAM</title>
+    <desc lang="en">Ikuti perbincangan mengenai permasalahan berkaitan agama dan isu semasa.</desc>
   </programme>
-  <programme start="20240502140000" stop="20240502150000" channel="1.mytv">
+  <programme start="20240502140000" stop="20240502140500" channel="1.mytv">
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
+  </programme>
+  <programme start="20240502140500" stop="20240502143000" channel="1.mytv">
     <title lang="en">Program @ 10:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240502150000" stop="20240502160000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502143000" stop="20240502150000" channel="1.mytv">
+    <title lang="en">Agrotek 2024</title>
+    <desc lang="en">Saksikan dokumentari yang memaparkan pelbagai teknologi terkini yang digunakan dalam sektor peladangan mahupun penternakan bagi menyumbang kepada hasil yang lebih baik.</desc>
   </programme>
-  <programme start="20240502160000" stop="20240502170000" channel="1.mytv">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502150000" stop="20240502153000" channel="1.mytv">
+    <title lang="en">Kelas IT Kampung Ampas</title>
+    <desc lang="en">Cikgu Nina, seorang guru yang dilantik oleh JKKK Kampung Ampas untuk mengajar penduduk mengenai IT yang merupakan keperluan pada masa kini.</desc>
   </programme>
-  <programme start="20240502170000" stop="20240502180000" channel="1.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502153000" stop="20240502160000" channel="1.mytv">
+    <title lang="en">Smart Parents</title>
+    <desc lang="en">Sebuah rancangan motivasi TV yang akan membincangkan tentang tips ibubapa bijak anak hebat</desc>
   </programme>
-  <programme start="20240502180000" stop="20240502190000" channel="1.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502160000" stop="20240502163000" channel="1.mytv">
+    <title lang="en">BERITA TENGAH MALAM</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240502190000" stop="20240502200000" channel="1.mytv">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502163000" stop="20240502170000" channel="1.mytv">
+    <title lang="en">Denai Warisan</title>
+    <desc lang="en">Denai Warisan adalah sebuah rancangan travelog yang membawa penonton untuk melihat kesan penjajahan Jepun di seluruh negara.</desc>
   </programme>
-  <programme start="20240502200000" stop="20240502210000" channel="1.mytv">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502170000" stop="20240502173000" channel="1.mytv">
+    <title lang="en">Sanding</title>
+    <desc lang="en">Sanding menampilkan informasi dan juga tip menarik dalam majlis perkahwinan.</desc>
   </programme>
-  <programme start="20240502210000" stop="20240502220000" channel="1.mytv">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502173000" stop="20240502180000" channel="1.mytv">
+    <title lang="en">Sari Alam</title>
+    <desc lang="en">Rancangan yang memaparkan pelbagai tumbuhan hijau dan tanaman botani yang menjadi makanan ruji di negara kita.</desc>
   </programme>
-  <programme start="20240502220000" stop="20240502230000" channel="1.mytv">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502180000" stop="20240502183000" channel="1.mytv">
+    <title lang="en">Bicara Mawarith</title>
+    <desc lang="en">Bersama pakar agamawan dan undang-undang membincangkan mengenai pengurusan harta, tuntutan dan hak waris.</desc>
   </programme>
-  <programme start="20240502230000" stop="20240503000000" channel="1.mytv">
+  <programme start="20240502183000" stop="20240502190000" channel="1.mytv">
+    <title lang="en">Smart Parents</title>
+    <desc lang="en">Sebuah rancangan motivasi TV yang akan membincangkan tentang tips ibubapa bijak anak hebat</desc>
+  </programme>
+  <programme start="20240502190000" stop="20240502193000" channel="1.mytv">
+    <title lang="en">Agrotek 2024</title>
+    <desc lang="en">Saksikan dokumentari yang memaparkan pelbagai teknologi terkini yang digunakan dalam sektor peladangan mahupun penternakan bagi menyumbang kepada hasil yang lebih baik.</desc>
+  </programme>
+  <programme start="20240502193000" stop="20240502200000" channel="1.mytv">
+    <title lang="en">Santri Serumpun</title>
+    <desc lang="en">Memaparkan kisah seorang pengacara menjelajah ke beberapa buah daerah di Indonesia bertujuan membuat lawatan ke beberapa buah pesantren terpilih untuk mendapatkan maklumat dan gambaran lanjut berhubung dengan sejarah, keistim</desc>
+  </programme>
+  <programme start="20240502200000" stop="20240502203000" channel="1.mytv">
+    <title lang="en">Pewaris Legasi</title>
+    <desc lang="en">Pewaris legasi memaparkan proses penyambungan ilmu kraf daripada seorang guru kepada murid yang akan meneruskan legasi yang kian luput ditelan zaman.</desc>
+  </programme>
+  <programme start="20240502203000" stop="20240502213000" channel="1.mytv">
+    <title lang="en">Kelmarin Cinta</title>
+    <desc lang="en">Drama bersiri menarik lakonan Shukri Yahya, Reen Rahim dan ramai lagi.</desc>
+  </programme>
+  <programme start="20240502213000" stop="20240502220000" channel="1.mytv">
+    <title lang="en">Surah Al Rahman</title>
+    <desc lang="en">Saksikan bacaan Surah Al-Rahman.</desc>
+  </programme>
+  <programme start="20240502220000" stop="20240502223000" channel="1.mytv">
+    <title lang="en">Seruan Haji 2024</title>
+    <desc lang="en">Menyusuri perjalanan mabrur duyufurahman dan persiapan tenaga kerja Tabung Haji dalam melaksanakan rukun islam ke lima. Mengetengahkan konsep istito'ah dan penjelasan panduan rukun dan wajib haji dalam perjalanan suci ini.</desc>
+  </programme>
+  <programme start="20240502223000" stop="20240502230000" channel="1.mytv">
+    <title lang="en">Sari Alam</title>
+    <desc lang="en">Rancangan yang memaparkan pelbagai tumbuhan hijau dan tanaman botani yang menjadi makanan ruji di negara kita.</desc>
+  </programme>
+  <programme start="20240502230000" stop="20240502233000" channel="1.mytv">
+    <title lang="en">BERITA PAGI</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara</desc>
+  </programme>
+  <programme start="20240502233000" stop="20240502234400" channel="1.mytv">
     <title lang="en">Program @ 7:00 AM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240503000000" stop="20240503010000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502234400" stop="20240503000000" channel="1.mytv">
+    <title lang="en">LIVE : KANTA 744</title>
+    <desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
   </programme>
-  <programme start="20240503010000" stop="20240503020000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503000000" stop="20240503020000" channel="1.mytv">
+    <title lang="en">LIVE : SELAMAT PAGI MALAYSIA</title>
+    <desc lang="en">Selamat Pagi Malaysia rancangan bual bicara pagi dengan pelbagai segmen dan topik menarik merangkumi gaya hidup, isu semasa, pendidikan, ekonomi.</desc>
   </programme>
-  <programme start="20240503020000" stop="20240503030000" channel="1.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503020000" stop="20240503020500" channel="1.mytv">
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
   </programme>
-  <programme start="20240503030000" stop="20240503040000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503020500" stop="20240503030000" channel="1.mytv">
+    <title lang="en">Juliet</title>
+    <desc lang="en">Saksikan lakonan Rita Nadira, Redza Rosli, Sofia Ibrahim, Azzarima, Mas Anizan, Haliza Misbun, Luisa Chong, Rozita Che Wan, Shah Iskandar.</desc>
   </programme>
-  <programme start="20240503040000" stop="20240503050000" channel="1.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503030000" stop="20240503033000" channel="1.mytv">
+    <title lang="en">Musa'adah 2024</title>
+    <desc lang="en">Sebuah rancangan yang memaparkan usaha JAKIM dan skuad Musa'adah dalam menyampaikan bantuan kepada pihak yang memerlukan.</desc>
   </programme>
-  <programme start="20240503050000" stop="20240503060000" channel="1.mytv">
+  <programme start="20240503033000" stop="20240503040000" channel="1.mytv">
+    <title lang="en">Iqra' 2024</title>
+    <desc lang="en">Saksikan Rancangan Iqra dan bertalaqqi bersama Ustazah Aishah Baa'in</desc>
+  </programme>
+  <programme start="20240503040000" stop="20240503043000" channel="1.mytv">
+    <title lang="en">BERITA TENGAH HARI</title>
+    <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240503043000" stop="20240503050000" channel="1.mytv">
+    <title lang="en">Lisanul Haq</title>
+    <desc lang="en">Saksikan Lisanul Haq Dakwah dengan gaya jalanan secara santai kepada ornag awam.</desc>
+  </programme>
+  <programme start="20240503050000" stop="20240503051000" channel="1.mytv">
     <title lang="en">Program @ 1:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240503060000" stop="20240503070000" channel="1.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503051000" stop="20240503063000" channel="1.mytv">
+    <title lang="en">LIVE : SOLAT JUMAAT</title>
+    <desc lang="en">Ikuti Solat Jumaat dan Khutbah Jumaat.</desc>
   </programme>
-  <programme start="20240503070000" stop="20240503080000" channel="1.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503063000" stop="20240503073000" channel="1.mytv">
+    <title lang="en">Forum Perdana Ehwal Islam 2024</title>
+    <desc lang="en">Ikuti perbincangan mengenai permasalahan berkaitan agama dan isu semasa.</desc>
   </programme>
-  <programme start="20240503080000" stop="20240503090000" channel="1.mytv">
-    <title lang="en">Program @ 4:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503073000" stop="20240503083000" channel="1.mytv">
+    <title lang="en">Kalam Wahyu (MTHQK) 2024</title>
+    <desc lang="en">Saksikan kompilasi bacaan peserta-peserta hafazan dalam pertandingan Majlis Tilawah &amp; Hafazan Al-Quran Peringkat Kebangsaan. Hayati bacaan Al-Quran.</desc>
+  </programme>
+  <programme start="20240503083000" stop="20240503090000" channel="1.mytv">
+    <title lang="en">Persada Jurnal 2024</title>
+    <desc lang="en">Ikuti pengacara melihat perkembangan Islam di seluruh dunia.</desc>
   </programme>
   <programme start="20240503090000" stop="20240503100000" channel="1.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">BERITA WILAYAH</title>
+    <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah semenanjung Malaysia dalam rangkuman berita terkini.</desc>
   </programme>
-  <programme start="20240503100000" stop="20240503110000" channel="1.mytv">
+  <programme start="20240503100000" stop="20240503103000" channel="1.mytv">
+    <title lang="en">Seruan Haji 2024</title>
+    <desc lang="en">Menyusuri perjalanan mabrur duyufurahman dan persiapan tenaga kerja Tabung Haji dalam melaksanakan rukun islam ke lima. Mengetengahkan konsep istito'ah dan penjelasan panduan rukun dan wajib haji dalam perjalanan suci ini.</desc>
+  </programme>
+  <programme start="20240503103000" stop="20240503104500" channel="1.mytv">
     <title lang="en">Program @ 6:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240503110000" stop="20240503120000" channel="1.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503104500" stop="20240503114400" channel="1.mytv">
+    <title lang="en">Lelaki Untuk Di cintai</title>
+    <desc lang="en">Sebuah drama bersiri melayu yang memaparkan kehidupan dan cinta manusia biasa.</desc>
   </programme>
-  <programme start="20240503120000" stop="20240503130000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503120000" stop="20240503123000" channel="1.mytv">
+    <title lang="en">BERITA PERDANA</title>
+    <desc lang="en">Membawakan perkembangan terkini dari seluruh negara.</desc>
   </programme>
-  <programme start="20240503130000" stop="20240503140000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503123000" stop="20240503130000" channel="1.mytv">
+    <title lang="en">BERITA INGGERIS (MALAYSIA TONIGHT)</title>
+    <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
-  <programme start="20240503140000" stop="20240503150000" channel="1.mytv">
+  <programme start="20240503130000" stop="20240503133000" channel="1.mytv">
+    <title lang="en">LIVE : SALAM PAGI</title>
+    <desc lang="en">Taddabur Al-Quran yang akan membedah surah-surah pilihan dalam Al-Quran bersama tetamu undangan dan Qari pilihan.</desc>
+  </programme>
+  <programme start="20240503133000" stop="20240503140000" channel="1.mytv">
+    <title lang="en">LIVE : PASTIKAN SAHIH</title>
+    <desc lang="en">Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
+  </programme>
+  <programme start="20240503140000" stop="20240503140500" channel="1.mytv">
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
+  </programme>
+  <programme start="20240503140500" stop="20240503143000" channel="1.mytv">
     <title lang="en">Program @ 10:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240503150000" stop="20240503160000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503143000" stop="20240503150000" channel="1.mytv">
+    <title lang="en">Simfoni Alam 2022</title>
+    <desc lang="en">Dokumentari memaparkan isu hidupan liar dan alam semulajadi.</desc>
   </programme>
-  <programme start="20240503160000" stop="20240503170000" channel="1.mytv">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503150000" stop="20240503153000" channel="1.mytv">
+    <title lang="en">Kelas IT Kampung Ampas</title>
+    <desc lang="en">Cikgu Nina, seorang guru yang dilantik oleh JKKK Kampung Ampas untuk mengajar penduduk mengenai IT yang merupakan keperluan pada masa kini.</desc>
+  </programme>
+  <programme start="20240503153000" stop="20240503160000" channel="1.mytv">
+    <title lang="en">Aksi 2024</title>
+    <desc lang="en">Saksikan pelbagai acara sukan dan aksi menarik setiap minggu dalam Aksi 2023.</desc>
+  </programme>
+  <programme start="20240503160000" stop="20240503163000" channel="1.mytv">
+    <title lang="en">BERITA TENGAH MALAM</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20240503163000" stop="20240503170000" channel="1.mytv">
+    <title lang="en">Denai Warisan</title>
+    <desc lang="en">Denai Warisan adalah sebuah rancangan travelog yang membawa penonton untuk melihat kesan penjajahan Jepun di seluruh negara.</desc>
   </programme>
   <programme start="20240503170000" stop="20240503180000" channel="1.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
+    <title lang="en">Evo Rasa</title>
+    <desc lang="en">Evo Rasa adalah merupakan rancangan travelog masakan yang membawa penonton mengembara dalam mencari kegunaan pada bahan masakan harian yang telah dievolusikan rasanya.</desc>
   </programme>
-  <programme start="20240503180000" stop="20240503190000" channel="1.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503180000" stop="20240503183000" channel="1.mytv">
+    <title lang="en">Bicara Mawarith</title>
+    <desc lang="en">Bersama pakar agamawan dan undang-undang membincangkan mengenai pengurusan harta, tuntutan dan hak waris.</desc>
   </programme>
-  <programme start="20240503190000" stop="20240503200000" channel="1.mytv">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503183000" stop="20240503190000" channel="1.mytv">
+    <title lang="en">Smart Parents</title>
+    <desc lang="en">Sebuah rancangan motivasi TV yang akan membincangkan tentang tips ibubapa bijak anak hebat</desc>
   </programme>
-  <programme start="20240503200000" stop="20240503210000" channel="1.mytv">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503193000" stop="20240503203000" channel="1.mytv">
+    <title lang="en">Rentas Peribumi</title>
+    <desc lang="en">Membawa penonton melihat aktiviti penduduk setempat yang menjana ikonomi dengan melakukan pelbagai pekerjaan yang boleh mendatangkan rezeki kepada mereka .Serta melihat Adat Resam penduduk di kawasan tersebut.</desc>
   </programme>
-  <programme start="20240503210000" stop="20240503220000" channel="1.mytv">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503203000" stop="20240503213000" channel="1.mytv">
+    <title lang="en">Kelmarin Cinta</title>
+    <desc lang="en">Drama bersiri menarik lakonan Shukri Yahya, Reen Rahim dan ramai lagi.</desc>
   </programme>
-  <programme start="20240503220000" stop="20240503230000" channel="1.mytv">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503213000" stop="20240503220000" channel="1.mytv">
+    <title lang="en">Surah Al Rahman</title>
+    <desc lang="en">Saksikan bacaan Surah Al-Rahman.</desc>
   </programme>
-  <programme start="20240503230000" stop="20240504000000" channel="1.mytv">
+  <programme start="20240503220000" stop="20240503223000" channel="1.mytv">
+    <title lang="en">Seruan Haji 2024</title>
+    <desc lang="en">Menyusuri perjalanan mabrur duyufurahman dan persiapan tenaga kerja Tabung Haji dalam melaksanakan rukun islam ke lima. Mengetengahkan konsep istito'ah dan penjelasan panduan rukun dan wajib haji dalam perjalanan suci ini.</desc>
+  </programme>
+  <programme start="20240503223000" stop="20240503230000" channel="1.mytv">
+    <title lang="en">Sari Alam</title>
+    <desc lang="en">Rancangan yang memaparkan pelbagai tumbuhan hijau dan tanaman botani yang menjadi makanan ruji di negara kita.</desc>
+  </programme>
+  <programme start="20240503230000" stop="20240503233000" channel="1.mytv">
+    <title lang="en">BERITA PAGI</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara</desc>
+  </programme>
+  <programme start="20240503233000" stop="20240503234400" channel="1.mytv">
     <title lang="en">Program @ 7:00 AM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240504000000" stop="20240504010000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503234400" stop="20240504000000" channel="1.mytv">
+    <title lang="en">LIVE : KANTA 744</title>
+    <desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
   </programme>
-  <programme start="20240504010000" stop="20240504020000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504000000" stop="20240504033000" channel="1.mytv">
+    <title lang="en">LIVE : SELAMAT PAGI MALAYSIA</title>
+    <desc lang="en">Selamat Pagi Malaysia rancangan bual bicara pagi dengan pelbagai segmen dan topik menarik merangkumi gaya hidup, isu semasa, pendidikan, ekonomi.</desc>
   </programme>
-  <programme start="20240504020000" stop="20240504030000" channel="1.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504033000" stop="20240504040000" channel="1.mytv">
+    <title lang="en">Makan Dan Rawat</title>
+    <desc lang="en">Perkongsian mengenai makanan yang boleh mendatangkan penyakit serta makanan yang boleh menjadi penawar jika diambil dan disediakan dengan cara yang betul.</desc>
   </programme>
-  <programme start="20240504030000" stop="20240504040000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504040000" stop="20240504040500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20240504040000" stop="20240504050000" channel="1.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504040500" stop="20240504043000" channel="1.mytv">
+    <title lang="en">Hello Suri</title>
+    <desc lang="en">Sebuah majalah yang memaparkan tips pengurusan rumah tangga, susun atur dan hiasan di dalam dan di luar rumah dan pengurusan kewangan. Majalah ini mempunyai beberapa segmen iaitu segmen pengurusan rumah tangga, info suri dan ringg</desc>
   </programme>
-  <programme start="20240504050000" stop="20240504060000" channel="1.mytv">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504050000" stop="20240504053000" channel="1.mytv">
+    <title lang="en">BERITA TENGAH HARI</title>
+    <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20240504060000" stop="20240504070000" channel="1.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504053000" stop="20240504073000" channel="1.mytv">
+    <title lang="en">Waiduri Disebalik Pintu</title>
+    <desc lang="en">Mengisahkan Umar yang menaruh hati kepada Waiduri, anak Datin Suria yang merupakan pelanggan di kedai permaidani dia bekerja. Hubung Umar dan Waiduri semakin rapat apabila Datin Suria menggunakan khidmat Encik Syed da</desc>
   </programme>
-  <programme start="20240504070000" stop="20240504080000" channel="1.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504073000" stop="20240504080000" channel="1.mytv">
+    <title lang="en">Eksplorasi Intern</title>
+    <desc lang="en">Sebuah program majalah yang memaparkan 13 bidang kerjaya bersama pelatih industri.</desc>
   </programme>
-  <programme start="20240504080000" stop="20240504090000" channel="1.mytv">
-    <title lang="en">Program @ 4:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504080000" stop="20240504080500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240504080500" stop="20240504083000" channel="1.mytv">
+    <title lang="en">Digital Massa</title>
+    <desc lang="en">Rancangan berkaitan dengan isu-siu teknologi digital</desc>
   </programme>
   <programme start="20240504090000" stop="20240504100000" channel="1.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">BERITA WILAYAH</title>
+    <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah semenanjung Malaysia dalam rangkuman berita terkini.</desc>
   </programme>
-  <programme start="20240504100000" stop="20240504110000" channel="1.mytv">
+  <programme start="20240504100000" stop="20240504103000" channel="1.mytv">
+    <title lang="en">Seruan Haji 2024</title>
+    <desc lang="en">Menyusuri perjalanan mabrur duyufurahman dan persiapan tenaga kerja Tabung Haji dalam melaksanakan rukun islam ke lima. Mengetengahkan konsep istito'ah dan penjelasan panduan rukun dan wajib haji dalam perjalanan suci ini.</desc>
+  </programme>
+  <programme start="20240504103000" stop="20240504104500" channel="1.mytv">
     <title lang="en">Program @ 6:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240504110000" stop="20240504120000" channel="1.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504104500" stop="20240504114400" channel="1.mytv">
+    <title lang="en">Lelaki Untuk Di cintai</title>
+    <desc lang="en">Sebuah drama bersiri melayu yang memaparkan kehidupan dan cinta manusia biasa.</desc>
   </programme>
-  <programme start="20240504120000" stop="20240504130000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504120000" stop="20240504123000" channel="1.mytv">
+    <title lang="en">BERITA PERDANA</title>
+    <desc lang="en">Membawakan perkembangan terkini dari seluruh negara.</desc>
   </programme>
-  <programme start="20240504130000" stop="20240504140000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504123000" stop="20240504130000" channel="1.mytv">
+    <title lang="en">BERITA INGGERIS (MALAYSIA TONIGHT)</title>
+    <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
-  <programme start="20240504140000" stop="20240504150000" channel="1.mytv">
-    <title lang="en">Program @ 10:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504130000" stop="20240504150000" channel="1.mytv">
+    <title lang="en">Puan Bos</title>
+    <desc lang="en">Kisah sepasang suami isteri  yang workaholic berhadapan dengan cabaran yang terhebat dalam perkahwinan mereka apabila si isteri menjadi bos kepada suaminya.</desc>
   </programme>
   <programme start="20240504150000" stop="20240504160000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">Sukan Lejen 2024</title>
+    <desc lang="en">Program yang mengimbas kembali detik-detik kegemilangan atlet-atlet negara yang bertaraf lagenda dalam dunia sukan.</desc>
   </programme>
-  <programme start="20240504160000" stop="20240504170000" channel="1.mytv">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504160000" stop="20240504163000" channel="1.mytv">
+    <title lang="en">BERITA TENGAH MALAM</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240504170000" stop="20240504180000" channel="1.mytv">
+  <programme start="20240504163000" stop="20240504173000" channel="1.mytv">
+    <title lang="en">Opah</title>
+    <desc lang="en">Mengisahkan kehidupan Opah bersama anak, menantu dan cucu dalam mengharungi kehidupan bersama masyarakat.</desc>
+  </programme>
+  <programme start="20240504173000" stop="20240504174500" channel="1.mytv">
+    <title lang="en">Sari Alam</title>
+    <desc lang="en">Rancangan yang memaparkan pelbagai tumbuhan hijau dan tanaman botani yang menjadi makanan ruji di negara kita.</desc>
+  </programme>
+  <programme start="20240504174500" stop="20240504180000" channel="1.mytv">
     <title lang="en">Program @ 1:00 AM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240504180000" stop="20240504190000" channel="1.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504180000" stop="20240504183000" channel="1.mytv">
+    <title lang="en">Singgah-Singgah</title>
+    <desc lang="en">Sebuah rancangan travelog yang meneroka destinasi unik di Malaysia.</desc>
   </programme>
-  <programme start="20240504190000" stop="20240504200000" channel="1.mytv">
+  <programme start="20240504183000" stop="20240504190000" channel="1.mytv">
+    <title lang="en">Denai Warisan</title>
+    <desc lang="en">Denai Warisan adalah sebuah rancangan travelog yang membawa penonton untuk melihat kesan penjajahan Jepun di seluruh negara.</desc>
+  </programme>
+  <programme start="20240504190000" stop="20240504193000" channel="1.mytv">
     <title lang="en">Program @ 3:00 AM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240504200000" stop="20240504210000" channel="1.mytv">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504193000" stop="20240504213000" channel="1.mytv">
+    <title lang="en">Puan Bos</title>
+    <desc lang="en">Kisah sepasang suami isteri  yang workaholic berhadapan dengan cabaran yang terhebat dalam perkahwinan mereka apabila si isteri menjadi bos kepada suaminya.</desc>
   </programme>
-  <programme start="20240504210000" stop="20240504220000" channel="1.mytv">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504213000" stop="20240504220000" channel="1.mytv">
+    <title lang="en">Surah Al Rahman</title>
+    <desc lang="en">Saksikan bacaan Surah Al-Rahman.</desc>
   </programme>
   <programme start="20240504220000" stop="20240504230000" channel="1.mytv">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en"/>
+    <title lang="en">Forum Perdana Ehwal Islam 2024</title>
+    <desc lang="en">Ikuti perbincangan mengenai permasalahan berkaitan agama dan isu semasa.</desc>
   </programme>
-  <programme start="20240504230000" stop="20240505000000" channel="1.mytv">
+  <programme start="20240504230000" stop="20240504233000" channel="1.mytv">
+    <title lang="en">BERITA PAGI</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara</desc>
+  </programme>
+  <programme start="20240504233000" stop="20240504234400" channel="1.mytv">
     <title lang="en">Program @ 7:00 AM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240505000000" stop="20240505010000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504234400" stop="20240505000000" channel="1.mytv">
+    <title lang="en">LIVE : KANTA 744</title>
+    <desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
   </programme>
-  <programme start="20240505010000" stop="20240505020000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505000000" stop="20240505020000" channel="1.mytv">
+    <title lang="en">LIVE : SELAMAT PAGI MALAYSIA</title>
+    <desc lang="en">Selamat Pagi Malaysia rancangan bual bicara pagi dengan pelbagai segmen dan topik menarik merangkumi gaya hidup, isu semasa, pendidikan, ekonomi.</desc>
   </programme>
-  <programme start="20240505020000" stop="20240505030000" channel="1.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505020000" stop="20240505020500" channel="1.mytv">
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
+  </programme>
+  <programme start="20240505020500" stop="20240505030000" channel="1.mytv">
+    <title lang="en">Juliet</title>
+    <desc lang="en">Saksikan lakonan Rita Nadira, Redza Rosli, Sofia Ibrahim, Azzarima, Mas Anizan, Haliza Misbun, Luisa Chong, Rozita Che Wan, Shah Iskandar.</desc>
   </programme>
   <programme start="20240505030000" stop="20240505040000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
+    <title lang="en">LIVE : IRIS WANITA</title>
+    <desc lang="en">Saksikan pengacara, Yana Samsudin dan Azura Mokhtar bersama tetamu jemputan membicarakan topik berkaitan wanita.</desc>
   </programme>
-  <programme start="20240505040000" stop="20240505050000" channel="1.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505040000" stop="20240505040500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20240505050000" stop="20240505060000" channel="1.mytv">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505043000" stop="20240505050000" channel="1.mytv">
+    <title lang="en">Jelajah Aroma</title>
+    <desc lang="en">Menampilkan resepi-resepi menarik berasaskan tumbuh-tumbuhan dan herba yang terpilih.</desc>
   </programme>
-  <programme start="20240505060000" stop="20240505070000" channel="1.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505050000" stop="20240505053000" channel="1.mytv">
+    <title lang="en">BERITA TENGAH HARI</title>
+    <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20240505070000" stop="20240505080000" channel="1.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505053000" stop="20240505070000" channel="1.mytv">
+    <title lang="en">Konsert Minggu Ini 2019</title>
+    <desc lang="en">Konsert hiburan terbitan Unit Hiburan TV RTM yang menampilkan persembahan artis-artis tersohor tanahair.</desc>
   </programme>
-  <programme start="20240505080000" stop="20240505090000" channel="1.mytv">
+  <programme start="20240505070000" stop="20240505070500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240505070500" stop="20240505073000" channel="1.mytv">
+    <title lang="en">Puisi Nusantara</title>
+    <desc lang="en">Bersama hos, Shafa' Atussara Silahudin mengenali kepelbagaian seni puisi yang terdapat dalam alam Melayu.</desc>
+  </programme>
+  <programme start="20240505073000" stop="20240505080000" channel="1.mytv">
+    <title lang="en">Eksplorasi Intern</title>
+    <desc lang="en">Sebuah program majalah yang memaparkan 13 bidang kerjaya bersama pelatih industri.</desc>
+  </programme>
+  <programme start="20240505080000" stop="20240505080500" channel="1.mytv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+  </programme>
+  <programme start="20240505080500" stop="20240505083000" channel="1.mytv">
+    <title lang="en">Lisanul Haq</title>
+    <desc lang="en">Saksikan Lisanul Haq Dakwah dengan gaya jalanan secara santai kepada ornag awam.</desc>
+  </programme>
+  <programme start="20240505083000" stop="20240505084500" channel="1.mytv">
+    <title lang="en">Katalog Akuatik</title>
+    <desc lang="en">Sebuah majalah yang memaparkan kepelbagaian spesies akuatik yang terdapat di Malaysia.</desc>
+  </programme>
+  <programme start="20240505084500" stop="20240505090000" channel="1.mytv">
     <title lang="en">Program @ 4:00 PM</title>
     <desc lang="en"/>
   </programme>
   <programme start="20240505090000" stop="20240505100000" channel="1.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">BERITA WILAYAH</title>
+    <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah semenanjung Malaysia dalam rangkuman berita terkini.</desc>
   </programme>
-  <programme start="20240505100000" stop="20240505110000" channel="1.mytv">
+  <programme start="20240505100000" stop="20240505103000" channel="1.mytv">
+    <title lang="en">Seruan Haji 2024</title>
+    <desc lang="en">Menyusuri perjalanan mabrur duyufurahman dan persiapan tenaga kerja Tabung Haji dalam melaksanakan rukun islam ke lima. Mengetengahkan konsep istito'ah dan penjelasan panduan rukun dan wajib haji dalam perjalanan suci ini.</desc>
+  </programme>
+  <programme start="20240505103000" stop="20240505104500" channel="1.mytv">
     <title lang="en">Program @ 6:00 PM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240505110000" stop="20240505120000" channel="1.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505104500" stop="20240505114400" channel="1.mytv">
+    <title lang="en">Lelaki Untuk Di cintai</title>
+    <desc lang="en">Sebuah drama bersiri melayu yang memaparkan kehidupan dan cinta manusia biasa.</desc>
   </programme>
-  <programme start="20240505120000" stop="20240505130000" channel="1.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505120000" stop="20240505123000" channel="1.mytv">
+    <title lang="en">BERITA PERDANA</title>
+    <desc lang="en">Membawakan perkembangan terkini dari seluruh negara.</desc>
   </programme>
-  <programme start="20240505130000" stop="20240505140000" channel="1.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505123000" stop="20240505130000" channel="1.mytv">
+    <title lang="en">BERITA INGGERIS (MALAYSIA TONIGHT)</title>
+    <desc lang="en">Bringing the latest updates from across the globe.</desc>
+  </programme>
+  <programme start="20240505130000" stop="20240505133000" channel="1.mytv">
+    <title lang="en">Retro@RTM (Musim 3)</title>
+    <desc lang="en">Retro@RTM Musim Ke-3 merupakan rancangan bual bicara santai bersama artis-artis veteran terkenal tanah air era 80-an, 90-an dan 2000-an serta turut memaparkan futej lama persembahan artis</desc>
+  </programme>
+  <programme start="20240505133000" stop="20240505140000" channel="1.mytv">
+    <title lang="en">Dakwat Dan Keringat</title>
+    <desc lang="en">Kisah perjalanan kerjaya tokoh-tokoh kartunis dan kartunis-kartunis lain yang mewarnai dunia humor masyarakat di Malaysia.</desc>
   </programme>
   <programme start="20240505140000" stop="20240505150000" channel="1.mytv">
-    <title lang="en">Program @ 10:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">LIVE : PLANET SUKAN</title>
+    <desc lang="en">Saksikan Tabah Sazwan dan Jeed Zulkefli dengan topik bersama tetamu jemputan.</desc>
   </programme>
   <programme start="20240505150000" stop="20240505160000" channel="1.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">Iris Wanita 2024</title>
+    <desc lang="en">Saksikan pengacara, Yana Samsudin dan Azura Mokhtar bersama tetamu jemputan membicarakan topik berkaitan wanita.</desc>
   </programme>
-  <programme start="20240505160000" stop="20240505170000" channel="1.mytv">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505160000" stop="20240505163000" channel="1.mytv">
+    <title lang="en">BERITA TENGAH MALAM</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240505170000" stop="20240505180000" channel="1.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505163000" stop="20240505170000" channel="1.mytv">
+    <title lang="en">Bukan Jalan Biasa</title>
+    <desc lang="en">Dari semporna, perjalanan diteruskan ke Ranau, Sabah. Mat Redho telah bermalam di Rumah Panjang Suku Kaum Rungus dan sempat meneroka persekitaran tersebut bagi melihat serangga malam. Antara aktiviti yang sempat dilakukan a</desc>
   </programme>
-  <programme start="20240505180000" stop="20240505190000" channel="1.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505170000" stop="20240505173000" channel="1.mytv">
+    <title lang="en">Mukjizat Dan Sains</title>
+    <desc lang="en">Sebuah rancangan yang memperlihatkan ayat-ayat Al-Quran yang berkait rapat dengan Sains dan teknologi.</desc>
   </programme>
-  <programme start="20240505190000" stop="20240505200000" channel="1.mytv">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505173000" stop="20240505180000" channel="1.mytv">
+    <title lang="en">Sari Alam</title>
+    <desc lang="en">Rancangan yang memaparkan pelbagai tumbuhan hijau dan tanaman botani yang menjadi makanan ruji di negara kita.</desc>
   </programme>
-  <programme start="20240505200000" stop="20240505210000" channel="1.mytv">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505180000" stop="20240505183000" channel="1.mytv">
+    <title lang="en">Singgah-Singgah</title>
+    <desc lang="en">Sebuah rancangan travelog yang meneroka destinasi unik di Malaysia.</desc>
   </programme>
-  <programme start="20240505210000" stop="20240505220000" channel="1.mytv">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505183000" stop="20240505190000" channel="1.mytv">
+    <title lang="en">Tumit Tinggi 2022</title>
+    <desc lang="en">Rancangan yang memaparkan mengenai gaya hidup wanita moden serta isu-isu semasa tentang wanita.</desc>
+  </programme>
+  <programme start="20240505190000" stop="20240505193000" channel="1.mytv">
+    <title lang="en">Bersama Dave</title>
+    <desc lang="en">Saksikan bicarawara bersama Datuk DJ Dave dan selebriti undangan.</desc>
+  </programme>
+  <programme start="20240505193000" stop="20240505213000" channel="1.mytv">
+    <title lang="en">Waiduri Disebalik Pintu</title>
+    <desc lang="en">Mengisahkan Umar yang menaruh hati kepada Waiduri, anak Datin Suria yang merupakan pelanggan di kedai permaidani dia bekerja. Hubung Umar dan Waiduri semakin rapat apabila Datin Suria menggunakan khidmat Encik Syed da</desc>
+  </programme>
+  <programme start="20240505213000" stop="20240505220000" channel="1.mytv">
+    <title lang="en">Surah Al Rahman</title>
+    <desc lang="en">Saksikan bacaan Surah Al-Rahman.</desc>
   </programme>
   <programme start="20240505220000" stop="20240505230000" channel="1.mytv">
     <title lang="en">Program @ 6:00 AM</title>
@@ -2049,10 +2397,6 @@ Pelakon : Wan Hanafi Su, Sabri Yunus, Laila Nasir, Kuza Kuna, Issey Fazlisham, A
   <programme start="20240503050200" stop="20240503053000" channel="26.mytv">
     <title lang="en">Panggilan Agung Zohor</title>
     <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
-  </programme>
-  <programme start="20240503053000" stop="20240503060000" channel="26.mytv">
-    <title lang="en">Program @ 1:30 PM</title>
-    <desc lang="en"/>
   </programme>
   <programme start="20240503060000" stop="20240503070000" channel="26.mytv">
     <title lang="en">Baitullah Rindu Tertangguh</title>
@@ -4626,391 +4970,688 @@ Pelakon : Wan Hanafi Su, Sabri Yunus, Laila Nasir, Kuza Kuna, Issey Fazlisham, A
     <display-name lang="en">TVS</display-name>
     <url>https://www.mana2.my</url>
   </channel>
-  <programme start="20240430160000" stop="20240430170000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430153000" stop="20240430163000" channel="61.mytv">
+    <title lang="en">Descendent of The Sun</title>
+    <desc lang="en">This drama tells of the love story that develops between a surgeon and a special forces officer.</desc>
   </programme>
-  <programme start="20240430170000" stop="20240430180000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430163000" stop="20240430173000" channel="61.mytv">
+    <title lang="en">Fitrah Adam</title>
+    <desc lang="en">Fitrah Adam mengupas tentang masalah dan cabaran yang dihadapi kaum lelaki dalam kehidupan. Malah, mereka sebagai ketua keluarga dalam membina sahsiah rumah tangga dan menjadi pemimpin.</desc>
   </programme>
-  <programme start="20240430180000" stop="20240430190000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430173000" stop="20240430180000" channel="61.mytv">
+    <title lang="en">Jelajah Cardock</title>
+    <desc lang="en">Mencari Identiti, Melihat Realitiт mampu membantu industri pelancongan tempatan terutamanya Sarawak untuk di aktifkan kembali.</desc>
   </programme>
-  <programme start="20240430190000" stop="20240430200000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430183000" stop="20240430190000" channel="61.mytv">
+    <title lang="en">Sarawak Panorama (S2)</title>
+    <desc lang="en">A country without a documentary is like a family without an album. Sarawak Panorama is the family album that my team and I whole heartedly and passionately dedicate to our beloved Sarawak.</desc>
   </programme>
-  <programme start="20240430200000" stop="20240430210000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430190000" stop="20240430193000" channel="61.mytv">
+    <title lang="en">My Health, My Choice</title>
+    <desc lang="en">My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
   </programme>
-  <programme start="20240430210000" stop="20240430220000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430193000" stop="20240430200000" channel="61.mytv">
+    <title lang="en">Kedey Kita (S2)</title>
+    <desc lang="en">Orden Syam will use a food truck to visit local entrepreneurs outside Kuching city, such as Sibu, Sarikei, Sri Aman, Kapit, and Betong, helping them promote their businesses and offer exclusive promotions.</desc>
   </programme>
-  <programme start="20240430220000" stop="20240430230000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430200000" stop="20240430203000" channel="61.mytv">
+    <title lang="en">Make It Happen!</title>
+    <desc lang="en">4 hosts host a reality TV game show, unaware of potential friendships. Each episode features unique themes and missions, and they must navigate challenges and drama with guests to form unexpected bonds.</desc>
   </programme>
-  <programme start="20240430230000" stop="20240501000000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430203000" stop="20240430210000" channel="61.mytv">
+    <title lang="en">Staycation With Fattah &amp; Siti (S2)</title>
+    <desc lang="en">Travelogue show hosted by new local Sarawak talents, FattahBolh &amp; Siti Zawawi. Fattah &amp; Siti will bring all the warm and fuzzy travel all around Sarawak.</desc>
   </programme>
-  <programme start="20240501000000" stop="20240501010000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430210000" stop="20240430213000" channel="61.mytv">
+    <title lang="en">8x3</title>
+    <desc lang="en">&quot;8x3&quot; is a 13-episode drama series featuring three 8-minute stories about ordinary people in a city, highlighting their connections through blood ties, friendships, and experiences.</desc>
   </programme>
-  <programme start="20240501010000" stop="20240501020000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501020000" stop="20240501030000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501030000" stop="20240501040000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501040000" stop="20240501050000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501050000" stop="20240501060000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501060000" stop="20240501070000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501070000" stop="20240501080000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501080000" stop="20240501090000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501090000" stop="20240501100000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501100000" stop="20240501110000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501110000" stop="20240501120000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501120000" stop="20240501130000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501130000" stop="20240501140000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501140000" stop="20240501150000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240501150000" stop="20240501160000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240430160000" stop="20240430170000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240430170000" stop="20240430180000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240430180000" stop="20240430190000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240430190000" stop="20240430200000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240430200000" stop="20240430210000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240430210000" stop="20240430220000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430213000" stop="20240430220000" channel="61.mytv">
+    <title lang="en">Cigu! Nadai Bisi Utai</title>
+    <desc lang="en">Halim, seorang guru muda lepasan maktab berusia 25 tahun dari Selangor, dilema menerima tawaran mengajar di sekolah rendah di pedalaman Sarawak. Ibu dan tunang menentang, tetapi bapanya menyokong. Dalam tempoh 30 hari,</desc>
   </programme>
   <programme start="20240430220000" stop="20240430230000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en"/>
+    <title lang="en">Ajaib</title>
+    <desc lang="en">тDunia komaт Jasmin dan тmimpiт Maliq mempertemukan mereka dalam satu dunia lain, yang akhirnya membuatkan mereka menjalinkan cinta. Pertemuan di dunia fantasi, akhirnya menyatukan mereka di dunia realiti</desc>
   </programme>
-  <programme start="20240430230000" stop="20240501000000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430230000" stop="20240430233000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@7</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
   </programme>
-  <programme start="20240501000000" stop="20240501010000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240430233000" stop="20240501000000" channel="61.mytv">
+    <title lang="en">Pejalai Kamek Orang</title>
+    <desc lang="en">Hosted and narrated by Tony Eusoff, traces locations &amp; stories from people who have heard, experienced and witnessed events right from Brooke Era in 1841 leading up to Sarawakтs independence in July 1972</desc>
   </programme>
-  <programme start="20240501010000" stop="20240501020000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501000000" stop="20240501003000" channel="61.mytv">
+    <title lang="en">Design Nation</title>
+    <desc lang="en">Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
   </programme>
-  <programme start="20240501020000" stop="20240501030000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501003000" stop="20240501010000" channel="61.mytv">
+    <title lang="en">Headgear Hunting</title>
+    <desc lang="en">Dr Welyne Jehom, an anthropologist, search for expert traditional headgear makers in order to deepen her own knowledge of the craft and preserve the tradition for the benefit of future generations.</desc>
   </programme>
-  <programme start="20240501030000" stop="20240501040000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501010000" stop="20240501013000" channel="61.mytv">
+    <title lang="en">The Curious Quest</title>
+    <desc lang="en">A curious Sarawakian who wonders about questions that Sarawakians often wonder about history, culture and society. Join Husni as he goes on a quest to find the answers to Sarawakтs untold stories.</desc>
   </programme>
-  <programme start="20240501040000" stop="20240501050000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501013000" stop="20240501020000" channel="61.mytv">
+    <title lang="en">Suara Alam Borneo</title>
+    <desc lang="en">Suara Alam Borneo akan mengupasnya hutan hujan tropika berusia jutaan tahun secara terperinci dengan pelbagai spesis flora dan juga fauna menerusi informasi yang mudah difahami.</desc>
   </programme>
-  <programme start="20240501050000" stop="20240501060000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501020000" stop="20240501021500" channel="61.mytv">
+    <title lang="en">Hustle Hasil (S3)</title>
+    <desc lang="en">Kraftangan Sarawak is a show where local Sarawakтs craft becomes the focal point and in each episode, the host (Arabyrd) goes in depth with different form of local craft and itтs practicioner.</desc>
   </programme>
-  <programme start="20240501060000" stop="20240501070000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501021500" stop="20240501023000" channel="61.mytv">
+    <title lang="en">Cooking Orang Bujang (S2)</title>
+    <desc lang="en">FattahBolh akan menunjukkan menu masakan orang bujang yang sedap dan mudah untuk dicuba golongan masyarakat. Anda pasti teruja dengan nama &amp; masakan yang mudah untuk dijadikan sebagai panduan orang ramai.</desc>
+  </programme>
+  <programme start="20240501023000" stop="20240501030000" channel="61.mytv">
+    <title lang="en">Saya Pelajar Sekolah Cina</title>
+    <desc lang="en">Educational talkshow touching on topics related to the local chinese education development in Sarawak</desc>
+  </programme>
+  <programme start="20240501030000" stop="20240501031500" channel="61.mytv">
+    <title lang="en">(L) Berita Iban TVS</title>
+    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme start="20240501031500" stop="20240501034500" channel="61.mytv">
+    <title lang="en">Above &amp; Beyond</title>
+    <desc lang="en">This documentary highlight the individuals within the NGOs who go above and beyond their own ways to show love and kindness towards the community.</desc>
+  </programme>
+  <programme start="20240501034500" stop="20240501040000" channel="61.mytv">
+    <title lang="en">Dialog TVS Plus</title>
+    <desc lang="en">Dialog TVS Plus membincangkan topik-topik menarik dengan lebih ringkas dan padat</desc>
+  </programme>
+  <programme start="20240501040000" stop="20240501043000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@12</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
+  </programme>
+  <programme start="20240501043000" stop="20240501050000" channel="61.mytv">
+    <title lang="en">Aroma Puncak Borneo</title>
+    <desc lang="en">Catatan perjalanan seorang nomad, eksplorasi masakan dan makanan unik etnik di pergunungan / tanah tinggi, selain menemukan pengalaman baharu mengenai adat, budaya
+dan tradisi..</desc>
+  </programme>
+  <programme start="20240501050000" stop="20240501051500" channel="61.mytv">
+    <title lang="en">(L) Re Bao</title>
+    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme start="20240501051500" stop="20240501054500" channel="61.mytv">
+    <title lang="en">Khazanah Kenyalang</title>
+    <desc lang="en">Sebuah siri dokumentari 13 episod tentang koleksi dan artifak berharga dan sangat penting;
+yang kini menjadi KHAZANAH NEGERI SARAWAK dan berada dalam simpanan MUZIUM NEGERI SARAWAK.</desc>
+  </programme>
+  <programme start="20240501054500" stop="20240501064500" channel="61.mytv">
+    <title lang="en">Fitrah Adam</title>
+    <desc lang="en">Fitrah Adam mengupas tentang masalah dan cabaran yang dihadapi kaum lelaki dalam kehidupan. Malah, mereka sebagai ketua keluarga dalam membina sahsiah rumah tangga dan menjadi pemimpin.</desc>
+  </programme>
+  <programme start="20240501064500" stop="20240501070000" channel="61.mytv">
+    <title lang="en">Staycation With Fattah</title>
+    <desc lang="en">An intriguing show promoting unveiling brand new and existing homestays around Sarawak while curating a magical staycation experience for the audience.Т </desc>
   </programme>
   <programme start="20240501070000" stop="20240501080000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">Halik</title>
+    <desc lang="en">Childhood lovers Jacky and Lino meet after being apart for several years. However, now married to different people, the two must choose whether to fight to be together again or be true to the promise made to their spouses.</desc>
   </programme>
-  <programme start="20240501080000" stop="20240501090000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501080000" stop="20240501085500" channel="61.mytv">
+    <title lang="en">Descendent of The Sun</title>
+    <desc lang="en">This drama tells of the love story that develops between a surgeon and a special forces officer.</desc>
   </programme>
-  <programme start="20240501090000" stop="20240501100000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501085500" stop="20240501093000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@4:55</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
   </programme>
-  <programme start="20240501100000" stop="20240501110000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501093000" stop="20240501100000" channel="61.mytv">
+    <title lang="en">Cigu! Nadai Bisi Utai</title>
+    <desc lang="en">Halim, seorang guru muda lepasan maktab berusia 25 tahun dari Selangor, dilema menerima tawaran mengajar di sekolah rendah di pedalaman Sarawak. Ibu dan tunang menentang, tetapi bapanya menyokong. Dalam tempoh 30 hari,</desc>
   </programme>
-  <programme start="20240501110000" stop="20240501120000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501100000" stop="20240501101500" channel="61.mytv">
+    <title lang="en">(L) Re Bao</title>
+    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
   </programme>
-  <programme start="20240501120000" stop="20240501130000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501101500" stop="20240501103000" channel="61.mytv">
+    <title lang="en">The Amazing Awang Khenit</title>
+    <desc lang="en">The Amazing Awang Khenit menceritakan kisah seorang budak lelaki bernama Awang yang tinggal di sebuah negeri bernama Indrasakti.</desc>
   </programme>
-  <programme start="20240501130000" stop="20240501140000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501103000" stop="20240501110000" channel="61.mytv">
+    <title lang="en">Jarum &amp; Benang</title>
+    <desc lang="en">Fatin &amp; Juna merupakan kawan baik yang lahir di kampung yang sama. Mereka berdua merupakan pereka fesyen yang terkenal tetapi kejayaan mereka tidak disenangi oleh Wida,seorang pereka veteran.</desc>
   </programme>
-  <programme start="20240501140000" stop="20240501150000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501110000" stop="20240501113000" channel="61.mytv">
+    <title lang="en">(L) Berita Iban TVS</title>
+    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
   </programme>
-  <programme start="20240501150000" stop="20240501160000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240501114500" stop="20240501120000" channel="61.mytv">
+    <title lang="en">(DL) Menarik Sepuluh</title>
+    <desc lang="en">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
   </programme>
-  <programme start="20240501160000" stop="20240501170000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501120000" stop="20240501123500" channel="61.mytv">
+    <title lang="en">(L) UTAMA</title>
+    <desc lang="en">UTAMA merupakan segmen berita utama yang memaparkan Berita Terkini di seluruh Malaysia dan dunia.</desc>
   </programme>
-  <programme start="20240501170000" stop="20240501180000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501124500" stop="20240501131500" channel="61.mytv">
+    <title lang="en">Awang The Iban Warrior</title>
+    <desc lang="en">Awang Anak Rawang merupakan satu-satunya penerima pingat  terbilang Green Cross dari Ratu Elizabeth II, Ratu Britain. Tindakan nekad Awang menyabung nyawa menjadi teladan dan iktibar buat semua perajurit tanahair akan</desc>
   </programme>
-  <programme start="20240501180000" stop="20240501190000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501131500" stop="20240501133000" channel="61.mytv">
+    <title lang="en">Kompilasi Muzik Video Raya</title>
+    <desc lang="en">Kompilasi Lagu-Lagu Raya yang terbaik sepanjang zaman</desc>
   </programme>
-  <programme start="20240501190000" stop="20240501200000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501133000" stop="20240501140000" channel="61.mytv">
+    <title lang="en">Make It Happen!</title>
+    <desc lang="en">4 hosts host a reality TV game show, unaware of potential friendships. Each episode features unique themes and missions, and they must navigate challenges and drama with guests to form unexpected bonds.</desc>
   </programme>
-  <programme start="20240501200000" stop="20240501210000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501140000" stop="20240501143000" channel="61.mytv">
+    <title lang="en">My Health, My Choice</title>
+    <desc lang="en">My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
+  </programme>
+  <programme start="20240501143000" stop="20240501150000" channel="61.mytv">
+    <title lang="en">The Cloth Story (S2)</title>
+    <desc lang="en">The Cloth Story season 2 focuses on textiles, such as Pua, Songket, Tenun, Batik and Keringkam from the Borneo region. The cloth, the raw materials, the artisans, the history, the evolution and so much more.</desc>
+  </programme>
+  <programme start="20240501150000" stop="20240501153000" channel="61.mytv">
+    <title lang="en">(L) TVS Nightline</title>
+    <desc lang="en">Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
+  </programme>
+  <programme start="20240501153000" stop="20240501163000" channel="61.mytv">
+    <title lang="en">Descendent of The Sun</title>
+    <desc lang="en">This drama tells of the love story that develops between a surgeon and a special forces officer.</desc>
+  </programme>
+  <programme start="20240430153000" stop="20240430163000" channel="61.mytv">
+    <title lang="en">Descendent of The Sun</title>
+    <desc lang="en">This drama tells of the love story that develops between a surgeon and a special forces officer.</desc>
+  </programme>
+  <programme start="20240430163000" stop="20240430173000" channel="61.mytv">
+    <title lang="en">Fitrah Adam</title>
+    <desc lang="en">Fitrah Adam mengupas tentang masalah dan cabaran yang dihadapi kaum lelaki dalam kehidupan. Malah, mereka sebagai ketua keluarga dalam membina sahsiah rumah tangga dan menjadi pemimpin.</desc>
+  </programme>
+  <programme start="20240430173000" stop="20240430180000" channel="61.mytv">
+    <title lang="en">Jelajah Cardock</title>
+    <desc lang="en">Mencari Identiti, Melihat Realitiт mampu membantu industri pelancongan tempatan terutamanya Sarawak untuk di aktifkan kembali.</desc>
+  </programme>
+  <programme start="20240430183000" stop="20240430190000" channel="61.mytv">
+    <title lang="en">Sarawak Panorama (S2)</title>
+    <desc lang="en">A country without a documentary is like a family without an album. Sarawak Panorama is the family album that my team and I whole heartedly and passionately dedicate to our beloved Sarawak.</desc>
+  </programme>
+  <programme start="20240430190000" stop="20240430193000" channel="61.mytv">
+    <title lang="en">My Health, My Choice</title>
+    <desc lang="en">My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
+  </programme>
+  <programme start="20240430193000" stop="20240430200000" channel="61.mytv">
+    <title lang="en">Kedey Kita (S2)</title>
+    <desc lang="en">Orden Syam will use a food truck to visit local entrepreneurs outside Kuching city, such as Sibu, Sarikei, Sri Aman, Kapit, and Betong, helping them promote their businesses and offer exclusive promotions.</desc>
+  </programme>
+  <programme start="20240430200000" stop="20240430203000" channel="61.mytv">
+    <title lang="en">Make It Happen!</title>
+    <desc lang="en">4 hosts host a reality TV game show, unaware of potential friendships. Each episode features unique themes and missions, and they must navigate challenges and drama with guests to form unexpected bonds.</desc>
+  </programme>
+  <programme start="20240430203000" stop="20240430210000" channel="61.mytv">
+    <title lang="en">Staycation With Fattah &amp; Siti (S2)</title>
+    <desc lang="en">Travelogue show hosted by new local Sarawak talents, FattahBolh &amp; Siti Zawawi. Fattah &amp; Siti will bring all the warm and fuzzy travel all around Sarawak.</desc>
+  </programme>
+  <programme start="20240430210000" stop="20240430213000" channel="61.mytv">
+    <title lang="en">8x3</title>
+    <desc lang="en">&quot;8x3&quot; is a 13-episode drama series featuring three 8-minute stories about ordinary people in a city, highlighting their connections through blood ties, friendships, and experiences.</desc>
+  </programme>
+  <programme start="20240430213000" stop="20240430220000" channel="61.mytv">
+    <title lang="en">Cigu! Nadai Bisi Utai</title>
+    <desc lang="en">Halim, seorang guru muda lepasan maktab berusia 25 tahun dari Selangor, dilema menerima tawaran mengajar di sekolah rendah di pedalaman Sarawak. Ibu dan tunang menentang, tetapi bapanya menyokong. Dalam tempoh 30 hari,</desc>
+  </programme>
+  <programme start="20240430220000" stop="20240430230000" channel="61.mytv">
+    <title lang="en">Ajaib</title>
+    <desc lang="en">тDunia komaт Jasmin dan тmimpiт Maliq mempertemukan mereka dalam satu dunia lain, yang akhirnya membuatkan mereka menjalinkan cinta. Pertemuan di dunia fantasi, akhirnya menyatukan mereka di dunia realiti</desc>
+  </programme>
+  <programme start="20240430230000" stop="20240430233000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@7</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
+  </programme>
+  <programme start="20240430233000" stop="20240501000000" channel="61.mytv">
+    <title lang="en">Pejalai Kamek Orang</title>
+    <desc lang="en">Hosted and narrated by Tony Eusoff, traces locations &amp; stories from people who have heard, experienced and witnessed events right from Brooke Era in 1841 leading up to Sarawakтs independence in July 1972</desc>
+  </programme>
+  <programme start="20240501000000" stop="20240501003000" channel="61.mytv">
+    <title lang="en">Design Nation</title>
+    <desc lang="en">Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
+  </programme>
+  <programme start="20240501003000" stop="20240501010000" channel="61.mytv">
+    <title lang="en">Headgear Hunting</title>
+    <desc lang="en">Dr Welyne Jehom, an anthropologist, search for expert traditional headgear makers in order to deepen her own knowledge of the craft and preserve the tradition for the benefit of future generations.</desc>
+  </programme>
+  <programme start="20240501010000" stop="20240501013000" channel="61.mytv">
+    <title lang="en">The Curious Quest</title>
+    <desc lang="en">A curious Sarawakian who wonders about questions that Sarawakians often wonder about history, culture and society. Join Husni as he goes on a quest to find the answers to Sarawakтs untold stories.</desc>
+  </programme>
+  <programme start="20240501013000" stop="20240501020000" channel="61.mytv">
+    <title lang="en">Suara Alam Borneo</title>
+    <desc lang="en">Suara Alam Borneo akan mengupasnya hutan hujan tropika berusia jutaan tahun secara terperinci dengan pelbagai spesis flora dan juga fauna menerusi informasi yang mudah difahami.</desc>
+  </programme>
+  <programme start="20240501020000" stop="20240501021500" channel="61.mytv">
+    <title lang="en">Hustle Hasil (S3)</title>
+    <desc lang="en">Kraftangan Sarawak is a show where local Sarawakтs craft becomes the focal point and in each episode, the host (Arabyrd) goes in depth with different form of local craft and itтs practicioner.</desc>
+  </programme>
+  <programme start="20240501021500" stop="20240501023000" channel="61.mytv">
+    <title lang="en">Cooking Orang Bujang (S2)</title>
+    <desc lang="en">FattahBolh akan menunjukkan menu masakan orang bujang yang sedap dan mudah untuk dicuba golongan masyarakat. Anda pasti teruja dengan nama &amp; masakan yang mudah untuk dijadikan sebagai panduan orang ramai.</desc>
+  </programme>
+  <programme start="20240501023000" stop="20240501030000" channel="61.mytv">
+    <title lang="en">Saya Pelajar Sekolah Cina</title>
+    <desc lang="en">Educational talkshow touching on topics related to the local chinese education development in Sarawak</desc>
+  </programme>
+  <programme start="20240501030000" stop="20240501031500" channel="61.mytv">
+    <title lang="en">(L) Berita Iban TVS</title>
+    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme start="20240501031500" stop="20240501034500" channel="61.mytv">
+    <title lang="en">Above &amp; Beyond</title>
+    <desc lang="en">This documentary highlight the individuals within the NGOs who go above and beyond their own ways to show love and kindness towards the community.</desc>
+  </programme>
+  <programme start="20240501034500" stop="20240501040000" channel="61.mytv">
+    <title lang="en">Dialog TVS Plus</title>
+    <desc lang="en">Dialog TVS Plus membincangkan topik-topik menarik dengan lebih ringkas dan padat</desc>
+  </programme>
+  <programme start="20240501040000" stop="20240501043000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@12</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
+  </programme>
+  <programme start="20240501043000" stop="20240501050000" channel="61.mytv">
+    <title lang="en">Aroma Puncak Borneo</title>
+    <desc lang="en">Catatan perjalanan seorang nomad, eksplorasi masakan dan makanan unik etnik di pergunungan / tanah tinggi, selain menemukan pengalaman baharu mengenai adat, budaya
+dan tradisi..</desc>
+  </programme>
+  <programme start="20240501050000" stop="20240501051500" channel="61.mytv">
+    <title lang="en">(L) Re Bao</title>
+    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme start="20240501051500" stop="20240501054500" channel="61.mytv">
+    <title lang="en">Khazanah Kenyalang</title>
+    <desc lang="en">Sebuah siri dokumentari 13 episod tentang koleksi dan artifak berharga dan sangat penting;
+yang kini menjadi KHAZANAH NEGERI SARAWAK dan berada dalam simpanan MUZIUM NEGERI SARAWAK.</desc>
+  </programme>
+  <programme start="20240501054500" stop="20240501064500" channel="61.mytv">
+    <title lang="en">Fitrah Adam</title>
+    <desc lang="en">Fitrah Adam mengupas tentang masalah dan cabaran yang dihadapi kaum lelaki dalam kehidupan. Malah, mereka sebagai ketua keluarga dalam membina sahsiah rumah tangga dan menjadi pemimpin.</desc>
+  </programme>
+  <programme start="20240501064500" stop="20240501070000" channel="61.mytv">
+    <title lang="en">Staycation With Fattah</title>
+    <desc lang="en">An intriguing show promoting unveiling brand new and existing homestays around Sarawak while curating a magical staycation experience for the audience.Т </desc>
+  </programme>
+  <programme start="20240501070000" stop="20240501080000" channel="61.mytv">
+    <title lang="en">Halik</title>
+    <desc lang="en">Childhood lovers Jacky and Lino meet after being apart for several years. However, now married to different people, the two must choose whether to fight to be together again or be true to the promise made to their spouses.</desc>
+  </programme>
+  <programme start="20240501080000" stop="20240501085500" channel="61.mytv">
+    <title lang="en">Descendent of The Sun</title>
+    <desc lang="en">This drama tells of the love story that develops between a surgeon and a special forces officer.</desc>
+  </programme>
+  <programme start="20240501085500" stop="20240501093000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@4:55</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
+  </programme>
+  <programme start="20240501093000" stop="20240501100000" channel="61.mytv">
+    <title lang="en">Cigu! Nadai Bisi Utai</title>
+    <desc lang="en">Halim, seorang guru muda lepasan maktab berusia 25 tahun dari Selangor, dilema menerima tawaran mengajar di sekolah rendah di pedalaman Sarawak. Ibu dan tunang menentang, tetapi bapanya menyokong. Dalam tempoh 30 hari,</desc>
+  </programme>
+  <programme start="20240501100000" stop="20240501101500" channel="61.mytv">
+    <title lang="en">(L) Re Bao</title>
+    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme start="20240501101500" stop="20240501103000" channel="61.mytv">
+    <title lang="en">The Amazing Awang Khenit</title>
+    <desc lang="en">The Amazing Awang Khenit menceritakan kisah seorang budak lelaki bernama Awang yang tinggal di sebuah negeri bernama Indrasakti.</desc>
+  </programme>
+  <programme start="20240501103000" stop="20240501110000" channel="61.mytv">
+    <title lang="en">Jarum &amp; Benang</title>
+    <desc lang="en">Fatin &amp; Juna merupakan kawan baik yang lahir di kampung yang sama. Mereka berdua merupakan pereka fesyen yang terkenal tetapi kejayaan mereka tidak disenangi oleh Wida,seorang pereka veteran.</desc>
+  </programme>
+  <programme start="20240501110000" stop="20240501113000" channel="61.mytv">
+    <title lang="en">(L) Berita Iban TVS</title>
+    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme start="20240501114500" stop="20240501120000" channel="61.mytv">
+    <title lang="en">(DL) Menarik Sepuluh</title>
+    <desc lang="en">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
+  </programme>
+  <programme start="20240501120000" stop="20240501123500" channel="61.mytv">
+    <title lang="en">(L) UTAMA</title>
+    <desc lang="en">UTAMA merupakan segmen berita utama yang memaparkan Berita Terkini di seluruh Malaysia dan dunia.</desc>
+  </programme>
+  <programme start="20240501124500" stop="20240501131500" channel="61.mytv">
+    <title lang="en">Awang The Iban Warrior</title>
+    <desc lang="en">Awang Anak Rawang merupakan satu-satunya penerima pingat  terbilang Green Cross dari Ratu Elizabeth II, Ratu Britain. Tindakan nekad Awang menyabung nyawa menjadi teladan dan iktibar buat semua perajurit tanahair akan</desc>
+  </programme>
+  <programme start="20240501131500" stop="20240501133000" channel="61.mytv">
+    <title lang="en">Kompilasi Muzik Video Raya</title>
+    <desc lang="en">Kompilasi Lagu-Lagu Raya yang terbaik sepanjang zaman</desc>
+  </programme>
+  <programme start="20240501133000" stop="20240501140000" channel="61.mytv">
+    <title lang="en">Make It Happen!</title>
+    <desc lang="en">4 hosts host a reality TV game show, unaware of potential friendships. Each episode features unique themes and missions, and they must navigate challenges and drama with guests to form unexpected bonds.</desc>
+  </programme>
+  <programme start="20240501140000" stop="20240501143000" channel="61.mytv">
+    <title lang="en">My Health, My Choice</title>
+    <desc lang="en">My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
+  </programme>
+  <programme start="20240501143000" stop="20240501150000" channel="61.mytv">
+    <title lang="en">The Cloth Story (S2)</title>
+    <desc lang="en">The Cloth Story season 2 focuses on textiles, such as Pua, Songket, Tenun, Batik and Keringkam from the Borneo region. The cloth, the raw materials, the artisans, the history, the evolution and so much more.</desc>
+  </programme>
+  <programme start="20240501150000" stop="20240501153000" channel="61.mytv">
+    <title lang="en">(L) TVS Nightline</title>
+    <desc lang="en">Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
+  </programme>
+  <programme start="20240501153000" stop="20240501163000" channel="61.mytv">
+    <title lang="en">Descendent of The Sun</title>
+    <desc lang="en">This drama tells of the love story that develops between a surgeon and a special forces officer.</desc>
+  </programme>
+  <programme start="20240501153000" stop="20240501163000" channel="61.mytv">
+    <title lang="en">Descendent of The Sun</title>
+    <desc lang="en">This drama tells of the love story that develops between a surgeon and a special forces officer.</desc>
+  </programme>
+  <programme start="20240501163000" stop="20240501173000" channel="61.mytv">
+    <title lang="en">Ajaib</title>
+    <desc lang="en">тDunia komaт Jasmin dan тmimpiт Maliq mempertemukan mereka dalam satu dunia lain, yang akhirnya membuatkan mereka menjalinkan cinta. Pertemuan di dunia fantasi, akhirnya menyatukan mereka di dunia realiti</desc>
+  </programme>
+  <programme start="20240501173000" stop="20240501180000" channel="61.mytv">
+    <title lang="en">Pejalai Kamek Orang</title>
+    <desc lang="en">Hosted and narrated by Tony Eusoff, traces locations &amp; stories from people who have heard, experienced and witnessed events right from Brooke Era in 1841 leading up to Sarawakтs independence in July 1972</desc>
+  </programme>
+  <programme start="20240501180000" stop="20240501183000" channel="61.mytv">
+    <title lang="en">Design Nation</title>
+    <desc lang="en">Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
+  </programme>
+  <programme start="20240501183000" stop="20240501190000" channel="61.mytv">
+    <title lang="en">Headgear Hunting</title>
+    <desc lang="en">Dr Welyne Jehom, an anthropologist, search for expert traditional headgear makers in order to deepen her own knowledge of the craft and preserve the tradition for the benefit of future generations.</desc>
+  </programme>
+  <programme start="20240501190000" stop="20240501193000" channel="61.mytv">
+    <title lang="en">The Curious Quest</title>
+    <desc lang="en">A curious Sarawakian who wonders about questions that Sarawakians often wonder about history, culture and society. Join Husni as he goes on a quest to find the answers to Sarawakтs untold stories.</desc>
+  </programme>
+  <programme start="20240501193000" stop="20240501200000" channel="61.mytv">
+    <title lang="en">Suara Alam Borneo</title>
+    <desc lang="en">Suara Alam Borneo akan mengupasnya hutan hujan tropika berusia jutaan tahun secara terperinci dengan pelbagai spesis flora dan juga fauna menerusi informasi yang mudah difahami.</desc>
+  </programme>
+  <programme start="20240501200000" stop="20240501203000" channel="61.mytv">
+    <title lang="en">Above &amp; Beyond</title>
+    <desc lang="en">This documentary highlight the individuals within the NGOs who go above and beyond their own ways to show love and kindness towards the community.</desc>
+  </programme>
+  <programme start="20240501203000" stop="20240501210000" channel="61.mytv">
+    <title lang="en">Aroma Puncak Borneo</title>
+    <desc lang="en">Catatan perjalanan seorang nomad, eksplorasi masakan dan makanan unik etnik di pergunungan / tanah tinggi, selain menemukan pengalaman baharu mengenai adat, budaya
+dan tradisi..</desc>
   </programme>
   <programme start="20240501210000" stop="20240501220000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en"/>
+    <title lang="en">Fitrah Adam</title>
+    <desc lang="en">Fitrah Adam mengupas tentang masalah dan cabaran yang dihadapi kaum lelaki dalam kehidupan. Malah, mereka sebagai ketua keluarga dalam membina sahsiah rumah tangga dan menjadi pemimpin.</desc>
   </programme>
   <programme start="20240501220000" stop="20240501230000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en"/>
+    <title lang="en">Ajaib</title>
+    <desc lang="en">тDunia komaт Jasmin dan тmimpiт Maliq mempertemukan mereka dalam satu dunia lain, yang akhirnya membuatkan mereka menjalinkan cinta. Pertemuan di dunia fantasi, akhirnya menyatukan mereka di dunia realiti</desc>
   </programme>
-  <programme start="20240501230000" stop="20240502000000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501230000" stop="20240501233000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@7</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
   </programme>
-  <programme start="20240502000000" stop="20240502010000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240501233000" stop="20240502000000" channel="61.mytv">
+    <title lang="en">3D Jobs</title>
+    <desc lang="en">Aims to highlight and honor the unsung heroes of our communities who bravely perform challenging, hazardous, and dangerous jobs, showcasing their daily lives and their life stories beyond their work.</desc>
   </programme>
-  <programme start="20240502010000" stop="20240502020000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502000000" stop="20240502003000" channel="61.mytv">
+    <title lang="en">Sekolah Kamek Nang Champiyen!</title>
+    <desc lang="en">Program yang memaparkan kejayaan di Sarawak dari segi akademik, sukan, inovasi dan lain-lain serta mengharumkan nama Sarawak mahupun antarabangsa dan menginspirasi penonton untuk mendorong kepada kejayaan</desc>
   </programme>
-  <programme start="20240502020000" stop="20240502030000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502003000" stop="20240502010000" channel="61.mytv">
+    <title lang="en">Jarum &amp; Benang</title>
+    <desc lang="en">Fatin &amp; Juna merupakan kawan baik yang lahir di kampung yang sama. Mereka berdua merupakan pereka fesyen yang terkenal tetapi kejayaan mereka tidak disenangi oleh Wida,seorang pereka veteran.</desc>
   </programme>
-  <programme start="20240502030000" stop="20240502040000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502010000" stop="20240502013000" channel="61.mytv">
+    <title lang="en">Pepper in Hornbill's Land</title>
+    <desc lang="en">Discover the importance of this Sarawak pepper industry towards the economy of the country and also to WIN over the hearts of the younger generation to venture into this pepper industry.</desc>
   </programme>
-  <programme start="20240502040000" stop="20240502050000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502013000" stop="20240502020000" channel="61.mytv">
+    <title lang="en">Menghilir Rajang (S1)</title>
+    <desc lang="en">Kehidupan penduduk yang tinggal di sepanjang sungai Rajang, Sarawak. Kedudukan geografinya yang strategik menjadikan sungai ini sebagai sumber ekonomi, pendidikan, perhubungan dan produk pelancongan</desc>
   </programme>
-  <programme start="20240502050000" stop="20240502060000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502023000" stop="20240502030000" channel="61.mytv">
+    <title lang="en">Jelajah Cardock</title>
+    <desc lang="en">Mencari Identiti, Melihat Realitiт mampu membantu industri pelancongan tempatan terutamanya Sarawak untuk di aktifkan kembali.</desc>
   </programme>
-  <programme start="20240502060000" stop="20240502070000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502034500" stop="20240502040000" channel="61.mytv">
+    <title lang="en">Kompilasi Muzik Video Raya</title>
+    <desc lang="en">Kompilasi Lagu-Lagu Raya yang terbaik sepanjang zaman</desc>
+  </programme>
+  <programme start="20240502040000" stop="20240502043000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@12</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
+  </programme>
+  <programme start="20240502043000" stop="20240502050000" channel="61.mytv">
+    <title lang="en">Cigu! Nadai Bisi Utai</title>
+    <desc lang="en">Halim, seorang guru muda lepasan maktab berusia 25 tahun dari Selangor, dilema menerima tawaran mengajar di sekolah rendah di pedalaman Sarawak. Ibu dan tunang menentang, tetapi bapanya menyokong. Dalam tempoh 30 hari,</desc>
+  </programme>
+  <programme start="20240502050000" stop="20240502051500" channel="61.mytv">
+    <title lang="en">(L) Re Bao</title>
+    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme start="20240502051500" stop="20240502054500" channel="61.mytv">
+    <title lang="en">8x3</title>
+    <desc lang="en">&quot;8x3&quot; is a 13-episode drama series featuring three 8-minute stories about ordinary people in a city, highlighting their connections through blood ties, friendships, and experiences.</desc>
+  </programme>
+  <programme start="20240502054500" stop="20240502064500" channel="61.mytv">
+    <title lang="en">Ajaib</title>
+    <desc lang="en">тDunia komaт Jasmin dan тmimpiт Maliq mempertemukan mereka dalam satu dunia lain, yang akhirnya membuatkan mereka menjalinkan cinta. Pertemuan di dunia fantasi, akhirnya menyatukan mereka di dunia realiti</desc>
+  </programme>
+  <programme start="20240502064500" stop="20240502070000" channel="61.mytv">
+    <title lang="en">Hustle Hasil (S3)</title>
+    <desc lang="en">Kraftangan Sarawak is a show where local Sarawakтs craft becomes the focal point and in each episode, the host (Arabyrd) goes in depth with different form of local craft and itтs practicioner.</desc>
   </programme>
   <programme start="20240502070000" stop="20240502080000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">Halik</title>
+    <desc lang="en">Childhood lovers Jacky and Lino meet after being apart for several years. However, now married to different people, the two must choose whether to fight to be together again or be true to the promise made to their spouses.</desc>
   </programme>
-  <programme start="20240502080000" stop="20240502090000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502080000" stop="20240502085500" channel="61.mytv">
+    <title lang="en">Descendent of The Sun</title>
+    <desc lang="en">This drama tells of the love story that develops between a surgeon and a special forces officer.</desc>
   </programme>
-  <programme start="20240502090000" stop="20240502100000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502085500" stop="20240502093000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@4:55</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
   </programme>
-  <programme start="20240502100000" stop="20240502110000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502093000" stop="20240502100000" channel="61.mytv">
+    <title lang="en">Sarawak Panorama (S2)</title>
+    <desc lang="en">A country without a documentary is like a family without an album. Sarawak Panorama is the family album that my team and I whole heartedly and passionately dedicate to our beloved Sarawak.</desc>
   </programme>
-  <programme start="20240502110000" stop="20240502120000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502100000" stop="20240502101500" channel="61.mytv">
+    <title lang="en">(L) Re Bao</title>
+    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
   </programme>
-  <programme start="20240502120000" stop="20240502130000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502103000" stop="20240502110000" channel="61.mytv">
+    <title lang="en">A Day With Champion</title>
+    <desc lang="en">This documentary follows six SarawakianТ athletes in various types of sports, all at different stages in their career, and the different challenges they face.</desc>
   </programme>
-  <programme start="20240502130000" stop="20240502140000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502110000" stop="20240502113000" channel="61.mytv">
+    <title lang="en">(L) Berita Iban TVS</title>
+    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme start="20240502113000" stop="20240502114500" channel="61.mytv">
+    <title lang="en">Cooking Orang Bujang (S2)</title>
+    <desc lang="en">FattahBolh akan menunjukkan menu masakan orang bujang yang sedap dan mudah untuk dicuba golongan masyarakat. Anda pasti teruja dengan nama &amp; masakan yang mudah untuk dijadikan sebagai panduan orang ramai.</desc>
+  </programme>
+  <programme start="20240502114500" stop="20240502120000" channel="61.mytv">
+    <title lang="en">(DL) Menarik Sepuluh</title>
+    <desc lang="en">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
+  </programme>
+  <programme start="20240502120000" stop="20240502123500" channel="61.mytv">
+    <title lang="en">(L) UTAMA</title>
+    <desc lang="en">UTAMA merupakan segmen berita utama yang memaparkan Berita Terkini di seluruh Malaysia dan dunia.</desc>
+  </programme>
+  <programme start="20240502124500" stop="20240502134500" channel="61.mytv">
+    <title lang="en">Dialog TVS</title>
+    <desc lang="en">Dialog TVS merupakan program bual bicara yang membincangkan mengenai perkembangan terkini serta topik-topik tertentu bersama pemimpin, pakar, penganalisis dan pemain industri.</desc>
+  </programme>
+  <programme start="20240502134500" stop="20240502140000" channel="61.mytv">
+    <title lang="en">Kompilasi Muzik Video Raya</title>
+    <desc lang="en">Kompilasi Lagu-Lagu Raya yang terbaik sepanjang zaman</desc>
   </programme>
   <programme start="20240502140000" stop="20240502150000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">Aurika &quot;Gadis Penjual Mimpi&quot;</title>
+    <desc lang="en">Mengisahkan seorang gadis yang gemar berangan dan mengimpikan jadi kaya bernama Aurika binti Abdullah yang dibesarkan oleh ibu angkatnya, Umi Ramlah seorang peniaga herba.</desc>
   </programme>
-  <programme start="20240502150000" stop="20240502160000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240502153000" stop="20240502163000" channel="61.mytv">
+    <title lang="en">Descendent of The Sun</title>
+    <desc lang="en">This drama tells of the love story that develops between a surgeon and a special forces officer.</desc>
   </programme>
-  <programme start="20240502160000" stop="20240502170000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502153000" stop="20240502163000" channel="61.mytv">
+    <title lang="en">Descendent of The Sun</title>
+    <desc lang="en">This drama tells of the love story that develops between a surgeon and a special forces officer.</desc>
   </programme>
-  <programme start="20240502170000" stop="20240502180000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502163000" stop="20240502173000" channel="61.mytv">
+    <title lang="en">Ajaib</title>
+    <desc lang="en">тDunia komaт Jasmin dan тmimpiт Maliq mempertemukan mereka dalam satu dunia lain, yang akhirnya membuatkan mereka menjalinkan cinta. Pertemuan di dunia fantasi, akhirnya menyatukan mereka di dunia realiti</desc>
   </programme>
-  <programme start="20240502180000" stop="20240502190000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502173000" stop="20240502180000" channel="61.mytv">
+    <title lang="en">Cuti-Cuti Sarawak Tersayang Kamek (S2)</title>
+    <desc lang="en">Hosted by Vincent and Elya, takes viewers to lesser-known Sarawak travel locations like Long Bedian, Kabong, and Similajau, providing breathtaking visuals and informative narration about local lifestyle</desc>
   </programme>
-  <programme start="20240502190000" stop="20240502200000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502180000" stop="20240502183000" channel="61.mytv">
+    <title lang="en">Sarawak Panorama (S2)</title>
+    <desc lang="en">A country without a documentary is like a family without an album. Sarawak Panorama is the family album that my team and I whole heartedly and passionately dedicate to our beloved Sarawak.</desc>
   </programme>
-  <programme start="20240502200000" stop="20240502210000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502183000" stop="20240502190000" channel="61.mytv">
+    <title lang="en">Hope Finds Love</title>
+    <desc lang="en">Hope, sorang penulis muda yang hiper , sering gagal dalam cinta. Namun, jodohnya sentiasa dekat dimata.</desc>
   </programme>
-  <programme start="20240502210000" stop="20240502220000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502190000" stop="20240502193000" channel="61.mytv">
+    <title lang="en">Pejalai Kamek Orang</title>
+    <desc lang="en">Hosted and narrated by Tony Eusoff, traces locations &amp; stories from people who have heard, experienced and witnessed events right from Brooke Era in 1841 leading up to Sarawakтs independence in July 1972</desc>
+  </programme>
+  <programme start="20240502193000" stop="20240502200000" channel="61.mytv">
+    <title lang="en">Cigu! Nadai Bisi Utai</title>
+    <desc lang="en">Halim, seorang guru muda lepasan maktab berusia 25 tahun dari Selangor, dilema menerima tawaran mengajar di sekolah rendah di pedalaman Sarawak. Ibu dan tunang menentang, tetapi bapanya menyokong. Dalam tempoh 30 hari,</desc>
+  </programme>
+  <programme start="20240502200000" stop="20240502203000" channel="61.mytv">
+    <title lang="en">Kahwin Kontrak</title>
+    <desc lang="en">Strings of cute and heart-warming events finally leads Bunga to a discovery of beautiful family values and the joy of living a simple life surrounded by people who love each other. Romance sparks and now Bunga has to ask herse</desc>
+  </programme>
+  <programme start="20240502203000" stop="20240502210000" channel="61.mytv">
+    <title lang="en">Cigu! Nadai Bisi Utai</title>
+    <desc lang="en">Halim, seorang guru muda lepasan maktab berusia 25 tahun dari Selangor, dilema menerima tawaran mengajar di sekolah rendah di pedalaman Sarawak. Ibu dan tunang menentang, tetapi bapanya menyokong. Dalam tempoh 30 hari,</desc>
+  </programme>
+  <programme start="20240502210000" stop="20240502213000" channel="61.mytv">
+    <title lang="en">8x3</title>
+    <desc lang="en">&quot;8x3&quot; is a 13-episode drama series featuring three 8-minute stories about ordinary people in a city, highlighting their connections through blood ties, friendships, and experiences.</desc>
+  </programme>
+  <programme start="20240502214500" stop="20240502220000" channel="61.mytv">
+    <title lang="en">Lifelong Learning (S2)</title>
+    <desc lang="en">Lifelong Learning merupakan sebuah rancangan realiti yang membawakan kisah inspirasi serta pengalaman daripada individu yang mempunyai latar belakang yang berbeza.</desc>
   </programme>
   <programme start="20240502220000" stop="20240502230000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en"/>
+    <title lang="en">Ajaib</title>
+    <desc lang="en">тDunia komaт Jasmin dan тmimpiт Maliq mempertemukan mereka dalam satu dunia lain, yang akhirnya membuatkan mereka menjalinkan cinta. Pertemuan di dunia fantasi, akhirnya menyatukan mereka di dunia realiti</desc>
   </programme>
-  <programme start="20240502230000" stop="20240503000000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502230000" stop="20240502233000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@7</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
   </programme>
-  <programme start="20240503000000" stop="20240503010000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240502233000" stop="20240503000000" channel="61.mytv">
+    <title lang="en">Cuti-Cuti Sarawak Tersayang Kamek (S2)</title>
+    <desc lang="en">Hosted by Vincent and Elya, takes viewers to lesser-known Sarawak travel locations like Long Bedian, Kabong, and Similajau, providing breathtaking visuals and informative narration about local lifestyle</desc>
   </programme>
-  <programme start="20240503010000" stop="20240503020000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503000000" stop="20240503003000" channel="61.mytv">
+    <title lang="en">Saya Pelajar Sekolah Cina</title>
+    <desc lang="en">Educational talkshow touching on topics related to the local chinese education development in Sarawak</desc>
   </programme>
-  <programme start="20240503020000" stop="20240503030000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503003000" stop="20240503010000" channel="61.mytv">
+    <title lang="en">Sarawak Panorama (S2)</title>
+    <desc lang="en">A country without a documentary is like a family without an album. Sarawak Panorama is the family album that my team and I whole heartedly and passionately dedicate to our beloved Sarawak.</desc>
   </programme>
-  <programme start="20240503030000" stop="20240503040000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503013000" stop="20240503020000" channel="61.mytv">
+    <title lang="en">Hope Finds Love</title>
+    <desc lang="en">Hope, sorang penulis muda yang hiper , sering gagal dalam cinta. Namun, jodohnya sentiasa dekat dimata.</desc>
   </programme>
-  <programme start="20240503040000" stop="20240503050000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503024500" stop="20240503030000" channel="61.mytv">
+    <title lang="en">Reviving Relics</title>
+    <desc lang="en">This documentary delves into the endangered cultural treasures of a specific community. Each episode showcases a last master practitioner, unraveling the significance, mythology, and crafting.</desc>
   </programme>
-  <programme start="20240503050000" stop="20240503060000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503030000" stop="20240503031500" channel="61.mytv">
+    <title lang="en">(L) Berita Iban TVS</title>
+    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
   </programme>
-  <programme start="20240503060000" stop="20240503070000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503031500" stop="20240503034500" channel="61.mytv">
+    <title lang="en">The Cloth Story (S2)</title>
+    <desc lang="en">The Cloth Story season 2 focuses on textiles, such as Pua, Songket, Tenun, Batik and Keringkam from the Borneo region. The cloth, the raw materials, the artisans, the history, the evolution and so much more.</desc>
+  </programme>
+  <programme start="20240503034500" stop="20240503040000" channel="61.mytv">
+    <title lang="en">Dialog TVS Plus</title>
+    <desc lang="en">Dialog TVS Plus membincangkan topik-topik menarik dengan lebih ringkas dan padat</desc>
+  </programme>
+  <programme start="20240503043000" stop="20240503050000" channel="61.mytv">
+    <title lang="en">Pejalai Kamek Orang</title>
+    <desc lang="en">Hosted and narrated by Tony Eusoff, traces locations &amp; stories from people who have heard, experienced and witnessed events right from Brooke Era in 1841 leading up to Sarawakтs independence in July 1972</desc>
+  </programme>
+  <programme start="20240503050000" stop="20240503051500" channel="61.mytv">
+    <title lang="en">Sukan TVS</title>
+    <desc lang="en">Memaparkan laporan, perbincangan dan topik hangat sukan tanah air</desc>
+  </programme>
+  <programme start="20240503054500" stop="20240503064500" channel="61.mytv">
+    <title lang="en">Fitrah Adam</title>
+    <desc lang="en">Fitrah Adam mengupas tentang masalah dan cabaran yang dihadapi kaum lelaki dalam kehidupan. Malah, mereka sebagai ketua keluarga dalam membina sahsiah rumah tangga dan menjadi pemimpin.</desc>
+  </programme>
+  <programme start="20240503064500" stop="20240503070000" channel="61.mytv">
+    <title lang="en">Hustle Hasil (S3)</title>
+    <desc lang="en">Kraftangan Sarawak is a show where local Sarawakтs craft becomes the focal point and in each episode, the host (Arabyrd) goes in depth with different form of local craft and itтs practicioner.</desc>
   </programme>
   <programme start="20240503070000" stop="20240503080000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">Halik</title>
+    <desc lang="en">Childhood lovers Jacky and Lino meet after being apart for several years. However, now married to different people, the two must choose whether to fight to be together again or be true to the promise made to their spouses.</desc>
   </programme>
-  <programme start="20240503080000" stop="20240503090000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503080000" stop="20240503083000" channel="61.mytv">
+    <title lang="en">The Curious Quest</title>
+    <desc lang="en">A curious Sarawakian who wonders about questions that Sarawakians often wonder about history, culture and society. Join Husni as he goes on a quest to find the answers to Sarawakтs untold stories.</desc>
   </programme>
-  <programme start="20240503090000" stop="20240503100000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503085500" stop="20240503093000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@4:55</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
   </programme>
-  <programme start="20240503100000" stop="20240503110000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503093000" stop="20240503100000" channel="61.mytv">
+    <title lang="en">BoboiBoy Galaxy</title>
+    <desc lang="en">As BoBoiBoy travels from planet to planet, his power watch will unlock new elements.</desc>
   </programme>
-  <programme start="20240503110000" stop="20240503120000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503100000" stop="20240503101500" channel="61.mytv">
+    <title lang="en">(L) Re Bao</title>
+    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
   </programme>
-  <programme start="20240503120000" stop="20240503130000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503104500" stop="20240503110000" channel="61.mytv">
+    <title lang="en">Sukan TVS</title>
+    <desc lang="en">Memaparkan laporan, perbincangan dan topik hangat sukan tanah air</desc>
+  </programme>
+  <programme start="20240503114500" stop="20240503120000" channel="61.mytv">
+    <title lang="en">(DL) Menarik Sepuluh</title>
+    <desc lang="en">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
+  </programme>
+  <programme start="20240503124500" stop="20240503130000" channel="61.mytv">
+    <title lang="en">Kompilasi Muzik Video Raya</title>
+    <desc lang="en">Kompilasi Lagu-Lagu Raya yang terbaik sepanjang zaman</desc>
   </programme>
   <programme start="20240503130000" stop="20240503140000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">Fir &amp; Afick Tonight Show</title>
+    <desc lang="en">This live talk show reunites two influential radio announcers in Sarawak, hosting a comedy talk show with celebrities, influencers, and public figures as guests, along with special appearances.</desc>
   </programme>
-  <programme start="20240503140000" stop="20240503150000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503140000" stop="20240503141500" channel="61.mytv">
+    <title lang="en">Kompilasi Muzik Video Raya</title>
+    <desc lang="en">Kompilasi Lagu-Lagu Raya yang terbaik sepanjang zaman</desc>
   </programme>
-  <programme start="20240503150000" stop="20240503160000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240503144500" stop="20240503150000" channel="61.mytv">
+    <title lang="en">Lifelong Learning (S2)</title>
+    <desc lang="en">Lifelong Learning merupakan sebuah rancangan realiti yang membawakan kisah inspirasi serta pengalaman daripada individu yang mempunyai latar belakang yang berbeza.</desc>
   </programme>
-  <programme start="20240503160000" stop="20240503170000" channel="61.mytv">
+  <programme start="20240503153000" stop="20240503163000" channel="61.mytv">
+    <title lang="en">Aurika &quot;Gadis Penjual Mimpi&quot;</title>
+    <desc lang="en">Mengisahkan seorang gadis yang gemar berangan dan mengimpikan jadi kaya bernama Aurika binti Abdullah yang dibesarkan oleh ibu angkatnya, Umi Ramlah seorang peniaga herba.</desc>
+  </programme>
+  <programme start="20240503153000" stop="20240503163000" channel="61.mytv">
+    <title lang="en">Aurika &quot;Gadis Penjual Mimpi&quot;</title>
+    <desc lang="en">Mengisahkan seorang gadis yang gemar berangan dan mengimpikan jadi kaya bernama Aurika binti Abdullah yang dibesarkan oleh ibu angkatnya, Umi Ramlah seorang peniaga herba.</desc>
+  </programme>
+  <programme start="20240503163000" stop="20240503170000" channel="61.mytv">
     <title lang="en">Program @ 12:00 AM</title>
     <desc lang="en"/>
   </programme>
@@ -5034,197 +5675,298 @@ Pelakon : Wan Hanafi Su, Sabri Yunus, Laila Nasir, Kuza Kuna, Issey Fazlisham, A
     <title lang="en">Program @ 5:00 AM</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20240503220000" stop="20240503230000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503220000" stop="20240503223000" channel="61.mytv">
+    <title lang="en">Hope Finds Love</title>
+    <desc lang="en">Hope, sorang penulis muda yang hiper , sering gagal dalam cinta. Namun, jodohnya sentiasa dekat dimata.</desc>
   </programme>
-  <programme start="20240503230000" stop="20240504000000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503223000" stop="20240503230000" channel="61.mytv">
+    <title lang="en">Cuti-Cuti Sarawak Tersayang Kamek (S2)</title>
+    <desc lang="en">Hosted by Vincent and Elya, takes viewers to lesser-known Sarawak travel locations like Long Bedian, Kabong, and Similajau, providing breathtaking visuals and informative narration about local lifestyle</desc>
   </programme>
-  <programme start="20240504000000" stop="20240504010000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503234500" stop="20240504001500" channel="61.mytv">
+    <title lang="en">Varia Nostalgia Raya</title>
+    <desc lang="en">Kompilasi muzik video raya</desc>
   </programme>
-  <programme start="20240504010000" stop="20240504020000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504001500" stop="20240504004500" channel="61.mytv">
+    <title lang="en">Varia Nostalgia Raya</title>
+    <desc lang="en">Kompilasi muzik video raya</desc>
   </programme>
-  <programme start="20240504020000" stop="20240504030000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504004500" stop="20240504011500" channel="61.mytv">
+    <title lang="en">Varia Nostalgia Raya</title>
+    <desc lang="en">Kompilasi muzik video raya</desc>
   </programme>
-  <programme start="20240504030000" stop="20240504040000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504011500" stop="20240504014500" channel="61.mytv">
+    <title lang="en">Varia Nostalgia Raya</title>
+    <desc lang="en">Kompilasi muzik video raya</desc>
   </programme>
-  <programme start="20240504040000" stop="20240504050000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504014500" stop="20240504020000" channel="61.mytv">
+    <title lang="en">The Amazing Awang Khenit</title>
+    <desc lang="en">The Amazing Awang Khenit menceritakan kisah seorang budak lelaki bernama Awang yang tinggal di sebuah negeri bernama Indrasakti.</desc>
   </programme>
-  <programme start="20240504050000" stop="20240504060000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504024500" stop="20240504030000" channel="61.mytv">
+    <title lang="en">Kompilasi Muzik Video Raya</title>
+    <desc lang="en">Kompilasi Lagu-Lagu Raya yang terbaik sepanjang zaman</desc>
   </programme>
-  <programme start="20240504060000" stop="20240504070000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504034500" stop="20240504040000" channel="61.mytv">
+    <title lang="en">Adventure of The Lens</title>
+    <desc lang="en">What does it take to capture the perfect shot in the wild? In every episode of Kembara Kanta, take an intimate journey with our local wildlife photographers as they search for their own perfect wildlife photo.</desc>
   </programme>
-  <programme start="20240504070000" stop="20240504080000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504043000" stop="20240504050000" channel="61.mytv">
+    <title lang="en">Cuti-Cuti Sarawak Tersayang Kamek (S2)</title>
+    <desc lang="en">Hosted by Vincent and Elya, takes viewers to lesser-known Sarawak travel locations like Long Bedian, Kabong, and Similajau, providing breathtaking visuals and informative narration about local lifestyle</desc>
   </programme>
-  <programme start="20240504080000" stop="20240504090000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504050000" stop="20240504051500" channel="61.mytv">
+    <title lang="en">(L) Re Bao</title>
+    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
   </programme>
-  <programme start="20240504090000" stop="20240504100000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504054500" stop="20240504060000" channel="61.mytv">
+    <title lang="en">Kompilasi Muzik Video Raya</title>
+    <desc lang="en">Kompilasi Lagu-Lagu Raya yang terbaik sepanjang zaman</desc>
   </programme>
-  <programme start="20240504100000" stop="20240504110000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504064500" stop="20240504070000" channel="61.mytv">
+    <title lang="en">Lifelong Learning (S2)</title>
+    <desc lang="en">Lifelong Learning merupakan sebuah rancangan realiti yang membawakan kisah inspirasi serta pengalaman daripada individu yang mempunyai latar belakang yang berbeza.</desc>
   </programme>
-  <programme start="20240504110000" stop="20240504120000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504070000" stop="20240504084000" channel="61.mytv">
+    <title lang="en">Running Man (S2)</title>
+    <desc lang="en">&quot;Running Man&quot;, popular South Korean variety show that blends reality television and comedy, airing since 2010. It features a regular cast of celebrity hosts and weekly guest stars participating in.</desc>
   </programme>
-  <programme start="20240504120000" stop="20240504130000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504084000" stop="20240504085500" channel="61.mytv">
+    <title lang="en">Cooking Orang Bujang (S2)</title>
+    <desc lang="en">FattahBolh akan menunjukkan menu masakan orang bujang yang sedap dan mudah untuk dicuba golongan masyarakat. Anda pasti teruja dengan nama &amp; masakan yang mudah untuk dijadikan sebagai panduan orang ramai.</desc>
+  </programme>
+  <programme start="20240504085500" stop="20240504093000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@4:55</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
+  </programme>
+  <programme start="20240504093000" stop="20240504100000" channel="61.mytv">
+    <title lang="en">BoboiBoy Galaxy</title>
+    <desc lang="en">As BoBoiBoy travels from planet to planet, his power watch will unlock new elements.</desc>
+  </programme>
+  <programme start="20240504100000" stop="20240504101500" channel="61.mytv">
+    <title lang="en">(L) Re Bao</title>
+    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme start="20240504103000" stop="20240504110000" channel="61.mytv">
+    <title lang="en">Jom Camping</title>
+    <desc lang="en">Jom Camping adalah sebuah program travelog perkhemahan yang akan membawa penonton meneroka pelbagai bentuk dan jenis perkhemahan berbeza selain dapat berjalan ke lokasi т lokasi perkhemahan yang menarik di negeri Sarawak bersam</desc>
+  </programme>
+  <programme start="20240504110000" stop="20240504113000" channel="61.mytv">
+    <title lang="en">(L) Berita Iban TVS</title>
+    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme start="20240504113000" stop="20240504114500" channel="61.mytv">
+    <title lang="en">Sukan TVS</title>
+    <desc lang="en">Memaparkan laporan, perbincangan dan topik hangat sukan tanah air</desc>
+  </programme>
+  <programme start="20240504114500" stop="20240504120000" channel="61.mytv">
+    <title lang="en">(DL) Menarik Sepuluh</title>
+    <desc lang="en">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
+  </programme>
+  <programme start="20240504120000" stop="20240504124500" channel="61.mytv">
+    <title lang="en">(L) UTAMA</title>
+    <desc lang="en">UTAMA merupakan segmen berita utama yang memaparkan Berita Terkini di seluruh Malaysia dan dunia.</desc>
+  </programme>
+  <programme start="20240504124500" stop="20240504130000" channel="61.mytv">
+    <title lang="en">Kompilasi Muzik Video Raya</title>
+    <desc lang="en">Kompilasi Lagu-Lagu Raya yang terbaik sepanjang zaman</desc>
   </programme>
   <programme start="20240504130000" stop="20240504140000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">Guardian of The Shore</title>
+    <desc lang="en">Uncovers the heroes who are working to protect the marine lives of Sarawakтs waters. This is a story of Sarawakтs attempt to deploy the longest reef ball projectТ inТ theТ world.</desc>
   </programme>
-  <programme start="20240504140000" stop="20240504150000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504140000" stop="20240504160000" channel="61.mytv">
+    <title lang="en">Perahu Kertas 2</title>
+    <desc lang="en">Tidal relationship between two human beings, Kugy and Keenan. Kugy is a tomboyish girl, cheerful, and who believes that she is the agent of Neptune.</desc>
   </programme>
-  <programme start="20240504150000" stop="20240504160000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504160000" stop="20240504163000" channel="61.mytv">
+    <title lang="en">Hope Finds Love</title>
+    <desc lang="en">Hope, sorang penulis muda yang hiper , sering gagal dalam cinta. Namun, jodohnya sentiasa dekat dimata.</desc>
   </programme>
-  <programme start="20240504160000" stop="20240504170000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504163000" stop="20240504170000" channel="61.mytv">
+    <title lang="en">Cuti-Cuti Sarawak Tersayang Kamek (S2)</title>
+    <desc lang="en">Hosted by Vincent and Elya, takes viewers to lesser-known Sarawak travel locations like Long Bedian, Kabong, and Similajau, providing breathtaking visuals and informative narration about local lifestyle</desc>
   </programme>
-  <programme start="20240504170000" stop="20240504180000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504170000" stop="20240504173000" channel="61.mytv">
+    <title lang="en">Varia Nostalgia Raya</title>
+    <desc lang="en">Kompilasi muzik video raya</desc>
   </programme>
-  <programme start="20240504180000" stop="20240504190000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504173000" stop="20240504180000" channel="61.mytv">
+    <title lang="en">Varia Nostalgia Raya</title>
+    <desc lang="en">Kompilasi muzik video raya</desc>
   </programme>
-  <programme start="20240504190000" stop="20240504200000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504180000" stop="20240504183000" channel="61.mytv">
+    <title lang="en">Varia Nostalgia Raya</title>
+    <desc lang="en">Kompilasi muzik video raya</desc>
   </programme>
-  <programme start="20240504200000" stop="20240504210000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504183000" stop="20240504190000" channel="61.mytv">
+    <title lang="en">Varia Nostalgia Raya</title>
+    <desc lang="en">Kompilasi muzik video raya</desc>
   </programme>
-  <programme start="20240504210000" stop="20240504220000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504190000" stop="20240504191500" channel="61.mytv">
+    <title lang="en">Cooking Orang Bujang (S2)</title>
+    <desc lang="en">FattahBolh akan menunjukkan menu masakan orang bujang yang sedap dan mudah untuk dicuba golongan masyarakat. Anda pasti teruja dengan nama &amp; masakan yang mudah untuk dijadikan sebagai panduan orang ramai.</desc>
   </programme>
-  <programme start="20240504220000" stop="20240504230000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504191500" stop="20240504194500" channel="61.mytv">
+    <title lang="en">Cigu! Nadai Bisi Utai</title>
+    <desc lang="en">Halim, seorang guru muda lepasan maktab berusia 25 tahun dari Selangor, dilema menerima tawaran mengajar di sekolah rendah di pedalaman Sarawak. Ibu dan tunang menentang, tetapi bapanya menyokong. Dalam tempoh 30 hari,</desc>
   </programme>
-  <programme start="20240504230000" stop="20240505000000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504194500" stop="20240504201500" channel="61.mytv">
+    <title lang="en">Cuti-Cuti Sarawak Tersayang Kamek (S2)</title>
+    <desc lang="en">Hosted by Vincent and Elya, takes viewers to lesser-known Sarawak travel locations like Long Bedian, Kabong, and Similajau, providing breathtaking visuals and informative narration about local lifestyle</desc>
   </programme>
-  <programme start="20240505000000" stop="20240505010000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504201500" stop="20240504204500" channel="61.mytv">
+    <title lang="en">Kedey Kita (S2)</title>
+    <desc lang="en">Orden Syam will use a food truck to visit local entrepreneurs outside Kuching city, such as Sibu, Sarikei, Sri Aman, Kapit, and Betong, helping them promote their businesses and offer exclusive promotions.</desc>
   </programme>
-  <programme start="20240505010000" stop="20240505020000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504204500" stop="20240504211500" channel="61.mytv">
+    <title lang="en">Just Wanna Dance (S2)</title>
+    <desc lang="en">4 penari dari gaya tarian yang berbeza, latar belakang dan kumpulan umur berkumpul,meluaskan ufuk dengan mencabar diri untuk mengalami dan mempelajari genre tarian berbeza,tarian budaya dan tradisi Borneo</desc>
   </programme>
-  <programme start="20240505020000" stop="20240505030000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504211500" stop="20240504214500" channel="61.mytv">
+    <title lang="en">Jom Camping</title>
+    <desc lang="en">Jom Camping adalah sebuah program travelog perkhemahan yang akan membawa penonton meneroka pelbagai bentuk dan jenis perkhemahan berbeza selain dapat berjalan ke lokasi т lokasi perkhemahan yang menarik di negeri Sarawak bersam</desc>
   </programme>
-  <programme start="20240505030000" stop="20240505040000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240504214500" stop="20240504220000" channel="61.mytv">
+    <title lang="en">Sukan TVS</title>
+    <desc lang="en">Memaparkan laporan, perbincangan dan topik hangat sukan tanah air</desc>
   </programme>
-  <programme start="20240505040000" stop="20240505050000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504220000" stop="20240504223000" channel="61.mytv">
+    <title lang="en">Design Nation</title>
+    <desc lang="en">Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
   </programme>
-  <programme start="20240505050000" stop="20240505060000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504223000" stop="20240504230000" channel="61.mytv">
+    <title lang="en">Pejalai Kamek Orang</title>
+    <desc lang="en">Hosted and narrated by Tony Eusoff, traces locations &amp; stories from people who have heard, experienced and witnessed events right from Brooke Era in 1841 leading up to Sarawakтs independence in July 1972</desc>
   </programme>
-  <programme start="20240505060000" stop="20240505070000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504230000" stop="20240504233000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@7</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
   </programme>
-  <programme start="20240505070000" stop="20240505080000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240504234500" stop="20240505001500" channel="61.mytv">
+    <title lang="en">Pepper in Hornbill's Land</title>
+    <desc lang="en">Discover the importance of this Sarawak pepper industry towards the economy of the country and also to WIN over the hearts of the younger generation to venture into this pepper industry.</desc>
   </programme>
-  <programme start="20240505080000" stop="20240505090000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505004500" stop="20240505011500" channel="61.mytv">
+    <title lang="en">Jelajah Cardock</title>
+    <desc lang="en">Mencari Identiti, Melihat Realitiт mampu membantu industri pelancongan tempatan terutamanya Sarawak untuk di aktifkan kembali.</desc>
   </programme>
-  <programme start="20240505090000" stop="20240505100000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505011500" stop="20240505014500" channel="61.mytv">
+    <title lang="en">The Cloth Story (S2)</title>
+    <desc lang="en">The Cloth Story season 2 focuses on textiles, such as Pua, Songket, Tenun, Batik and Keringkam from the Borneo region. The cloth, the raw materials, the artisans, the history, the evolution and so much more.</desc>
   </programme>
-  <programme start="20240505100000" stop="20240505110000" channel="61.mytv">
-    <title lang="en">Program @ 6:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505014500" stop="20240505020000" channel="61.mytv">
+    <title lang="en">The Amazing Awang Khenit</title>
+    <desc lang="en">The Amazing Awang Khenit menceritakan kisah seorang budak lelaki bernama Awang yang tinggal di sebuah negeri bernama Indrasakti.</desc>
   </programme>
-  <programme start="20240505110000" stop="20240505120000" channel="61.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505024500" stop="20240505030000" channel="61.mytv">
+    <title lang="en">Irama Syawal Sedunia</title>
+    <desc lang="en">Irama Syawal Sedunia is a captivating 15-minute program designed to showcase the rich tapestry of musical traditions illuminate the month of Syawal around the world.</desc>
   </programme>
-  <programme start="20240505120000" stop="20240505130000" channel="61.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505030000" stop="20240505031500" channel="61.mytv">
+    <title lang="en">(L) Berita Iban TVS</title>
+    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
   </programme>
-  <programme start="20240505130000" stop="20240505140000" channel="61.mytv">
-    <title lang="en">Program @ 9:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505034500" stop="20240505040000" channel="61.mytv">
+    <title lang="en">Borneon Story (S2)</title>
+    <desc lang="en">These collection of six short documentaries aims to tell the tales of Borneo emphasizing on its culture, history, tradition and environment.</desc>
   </programme>
-  <programme start="20240505140000" stop="20240505150000" channel="61.mytv">
-    <title lang="en">Program @ 10:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505043000" stop="20240505050000" channel="61.mytv">
+    <title lang="en">Food Truck Road Trip</title>
+    <desc lang="en">Watch the adventures of two friends, Azree &amp; Kojak, on a journey in their Food Trucks as they drive from Miri to Kuching, making stops along the way. The duo cook dishes using locally sourced ingredients, and have misadv</desc>
   </programme>
-  <programme start="20240505150000" stop="20240505160000" channel="61.mytv">
-    <title lang="en">Program @ 11:00 PM</title>
-    <desc lang="en"/>
+  <programme start="20240505054500" stop="20240505064500" channel="61.mytv">
+    <title lang="en">Dialog TVS</title>
+    <desc lang="en">Dialog TVS merupakan program bual bicara yang membincangkan mengenai perkembangan terkini serta topik-topik tertentu bersama pemimpin, pakar, penganalisis dan pemain industri.</desc>
   </programme>
-  <programme start="20240505160000" stop="20240505170000" channel="61.mytv">
-    <title lang="en">Program @ 12:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505064500" stop="20240505070000" channel="61.mytv">
+    <title lang="en">Reviving Relics</title>
+    <desc lang="en">This documentary delves into the endangered cultural treasures of a specific community. Each episode showcases a last master practitioner, unraveling the significance, mythology, and crafting.</desc>
   </programme>
-  <programme start="20240505170000" stop="20240505180000" channel="61.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505070000" stop="20240505084000" channel="61.mytv">
+    <title lang="en">Running Man (S2)</title>
+    <desc lang="en">&quot;Running Man&quot;, popular South Korean variety show that blends reality television and comedy, airing since 2010. It features a regular cast of celebrity hosts and weekly guest stars participating in.</desc>
   </programme>
-  <programme start="20240505180000" stop="20240505190000" channel="61.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505084000" stop="20240505085500" channel="61.mytv">
+    <title lang="en">Staycation With Fattah</title>
+    <desc lang="en">An intriguing show promoting unveiling brand new and existing homestays around Sarawak while curating a magical staycation experience for the audience.Т </desc>
   </programme>
-  <programme start="20240505190000" stop="20240505200000" channel="61.mytv">
-    <title lang="en">Program @ 3:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505085500" stop="20240505093000" channel="61.mytv">
+    <title lang="en">(L) Berita TVS@4:55</title>
+    <desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihТ menyegarkan.</desc>
   </programme>
-  <programme start="20240505200000" stop="20240505210000" channel="61.mytv">
-    <title lang="en">Program @ 4:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505093000" stop="20240505100000" channel="61.mytv">
+    <title lang="en">BoboiBoy Galaxy</title>
+    <desc lang="en">As BoBoiBoy travels from planet to planet, his power watch will unlock new elements.</desc>
   </programme>
-  <programme start="20240505210000" stop="20240505220000" channel="61.mytv">
-    <title lang="en">Program @ 5:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505100000" stop="20240505101500" channel="61.mytv">
+    <title lang="en">(L) Re Bao</title>
+    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme start="20240505101500" stop="20240505103000" channel="61.mytv">
+    <title lang="en">The Amazing Awang Khenit</title>
+    <desc lang="en">The Amazing Awang Khenit menceritakan kisah seorang budak lelaki bernama Awang yang tinggal di sebuah negeri bernama Indrasakti.</desc>
+  </programme>
+  <programme start="20240505103000" stop="20240505110000" channel="61.mytv">
+    <title lang="en">My Health, My Choice</title>
+    <desc lang="en">My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
+  </programme>
+  <programme start="20240505114500" stop="20240505120000" channel="61.mytv">
+    <title lang="en">(DL) Menarik Sepuluh</title>
+    <desc lang="en">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
+  </programme>
+  <programme start="20240505124500" stop="20240505131500" channel="61.mytv">
+    <title lang="en">Make It Happen!</title>
+    <desc lang="en">4 hosts host a reality TV game show, unaware of potential friendships. Each episode features unique themes and missions, and they must navigate challenges and drama with guests to form unexpected bonds.</desc>
+  </programme>
+  <programme start="20240505131500" stop="20240505134500" channel="61.mytv">
+    <title lang="en">Just Wanna Dance (S2)</title>
+    <desc lang="en">4 penari dari gaya tarian yang berbeza, latar belakang dan kumpulan umur berkumpul,meluaskan ufuk dengan mencabar diri untuk mengalami dan mempelajari genre tarian berbeza,tarian budaya dan tradisi Borneo</desc>
+  </programme>
+  <programme start="20240505134500" stop="20240505153000" channel="61.mytv">
+    <title lang="en">Avakas</title>
+    <desc lang="en">An elderly man doesn't share the same belief with everyone else of the existence of a modern-day head-hunter called Pangait. He believes instead that a head-hunter is a warrior, one who doesn't take pleasure in beheading humans. There</desc>
+  </programme>
+  <programme start="20240505153000" stop="20240505160000" channel="61.mytv">
+    <title lang="en">The Cloth Story (S2)</title>
+    <desc lang="en">The Cloth Story season 2 focuses on textiles, such as Pua, Songket, Tenun, Batik and Keringkam from the Borneo region. The cloth, the raw materials, the artisans, the history, the evolution and so much more.</desc>
+  </programme>
+  <programme start="20240505160000" stop="20240505163000" channel="61.mytv">
+    <title lang="en">Design Nation</title>
+    <desc lang="en">Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
+  </programme>
+  <programme start="20240505163000" stop="20240505170000" channel="61.mytv">
+    <title lang="en">Pejalai Kamek Orang</title>
+    <desc lang="en">Hosted and narrated by Tony Eusoff, traces locations &amp; stories from people who have heard, experienced and witnessed events right from Brooke Era in 1841 leading up to Sarawakтs independence in July 1973</desc>
+  </programme>
+  <programme start="20240505170000" stop="20240505173000" channel="61.mytv">
+    <title lang="en">Varia Nostalgia Raya</title>
+    <desc lang="en">Kompilasi muzik video raya</desc>
+  </programme>
+  <programme start="20240505173000" stop="20240505180000" channel="61.mytv">
+    <title lang="en">Aroma Puncak Borneo</title>
+    <desc lang="en">Catatan perjalanan seorang nomad, eksplorasi masakan dan makanan unik etnik di pergunungan / tanah tinggi, selain menemukan pengalaman baharu mengenai adat, budaya
+dan tradisi..</desc>
+  </programme>
+  <programme start="20240505183000" stop="20240505190000" channel="61.mytv">
+    <title lang="en">The Cloth Story (S2)</title>
+    <desc lang="en">The Cloth Story season 2 focuses on textiles, such as Pua, Songket, Tenun, Batik and Keringkam from the Borneo region. The cloth, the raw materials, the artisans, the history, the evolution and so much more.</desc>
+  </programme>
+  <programme start="20240505190000" stop="20240505193000" channel="61.mytv">
+    <title lang="en">Food Truck Road Trip</title>
+    <desc lang="en">Watch the adventures of two friends, Azree &amp; Kojak, on a journey in their Food Trucks as they drive from Miri to Kuching, making stops along the way. The duo cook dishes using locally sourced ingredients, and have misadv</desc>
+  </programme>
+  <programme start="20240505193000" stop="20240505200000" channel="61.mytv">
+    <title lang="en">Make It Happen!</title>
+    <desc lang="en">4 hosts host a reality TV game show, unaware of potential friendships. Each episode features unique themes and missions, and they must navigate challenges and drama with guests to form unexpected bonds.</desc>
+  </programme>
+  <programme start="20240505200000" stop="20240505201500" channel="61.mytv">
+    <title lang="en">Cooking Orang Bujang (S2)</title>
+    <desc lang="en">FattahBolh akan menunjukkan menu masakan orang bujang yang sedap dan mudah untuk dicuba golongan masyarakat. Anda pasti teruja dengan nama &amp; masakan yang mudah untuk dijadikan sebagai panduan orang ramai.</desc>
+  </programme>
+  <programme start="20240505201500" stop="20240505220000" channel="61.mytv">
+    <title lang="en">Kamboh Raya</title>
+    <desc lang="en">Kamboh Raya mengisahkan kekecohan sebuah keluarga yang membuat persiapan raya di saat akhir.</desc>
   </programme>
   <programme start="20240505220000" stop="20240505230000" channel="61.mytv">
     <title lang="en">Program @ 6:00 AM</title>
@@ -7068,10 +7810,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <title lang="en">(L) Ruang Bicara</title>
     <desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
   </programme>
-  <programme start="20240501133000" stop="20240501140000" channel="27.mytv">
-    <title lang="en">Program @ 9:30 PM</title>
-    <desc lang="en"/>
-  </programme>
   <programme start="20240501140000" stop="20240501143000" channel="27.mytv">
     <title lang="en">Mandarin News</title>
     <desc lang="en">A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education. Follow-up and in-depth reports on issues concerning the Chinese</desc>
@@ -7257,10 +7995,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
   <programme start="20240501130000" stop="20240501133000" channel="27.mytv">
     <title lang="en">(L) Ruang Bicara</title>
     <desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
-  </programme>
-  <programme start="20240501133000" stop="20240501140000" channel="27.mytv">
-    <title lang="en">Program @ 9:30 PM</title>
-    <desc lang="en"/>
   </programme>
   <programme start="20240501140000" stop="20240501143000" channel="27.mytv">
     <title lang="en">Mandarin News</title>
@@ -8195,8 +8929,8 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <desc lang="en">A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education. Follow-up and in-depth reports on issues concerning the Chi</desc>
   </programme>
   <programme start="20240506110000" stop="20240506113000" channel="27.mytv">
-    <title lang="en">Program @ 7:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">(L) Tamil News</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara</desc>
   </programme>
   <programme start="20240506113000" stop="20240506114500" channel="27.mytv">
     <title lang="en">Apa Kata Tetamu@AKM</title>
@@ -8208,8 +8942,8 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <desc lang="en">Laporan sukan menyeluruh melibatkan keputusan kejohanan, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
   </programme>
   <programme start="20240506120000" stop="20240506123000" channel="27.mytv">
-    <title lang="en">Program @ 8:00 PM</title>
-    <desc lang="en"/>
+    <title lang="en">(L) Buletin BERNAMA</title>
+    <desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
   </programme>
   <programme start="20240506123000" stop="20240506130000" channel="27.mytv">
     <title lang="en">(L) Darah Muda</title>
@@ -8242,10 +8976,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
   <programme start="20240430160000" stop="20240430163000" channel="28.mytv">
     <title lang="en">Suke Hati</title>
     <desc lang="en">Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
-  </programme>
-  <programme start="20240430163000" stop="20240430173000" channel="28.mytv">
-    <title lang="en">Program @ 12:30 AM</title>
-    <desc lang="en"/>
   </programme>
   <programme start="20240430173000" stop="20240430183000" channel="28.mytv">
     <title lang="en">Suke Celeb</title>
@@ -8350,10 +9080,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
   <programme start="20240430160000" stop="20240430163000" channel="28.mytv">
     <title lang="en">Suke Hati</title>
     <desc lang="en">Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
-  </programme>
-  <programme start="20240430163000" stop="20240430173000" channel="28.mytv">
-    <title lang="en">Program @ 12:30 AM</title>
-    <desc lang="en"/>
   </programme>
   <programme start="20240430173000" stop="20240430183000" channel="28.mytv">
     <title lang="en">Suke Celeb</title>
@@ -8463,10 +9189,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <title lang="en">Suke Hati</title>
     <desc lang="en">Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
   </programme>
-  <programme start="20240501170000" stop="20240501183000" channel="28.mytv">
-    <title lang="en">Suke Celeb</title>
-    <desc lang="en">Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
-  </programme>
   <programme start="20240501183000" stop="20240501193000" channel="28.mytv">
     <title lang="en">Suke Hati</title>
     <desc lang="en">Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
@@ -8570,10 +9292,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
   <programme start="20240502163000" stop="20240502170000" channel="28.mytv">
     <title lang="en">Suke Hati</title>
     <desc lang="en">Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
-  </programme>
-  <programme start="20240502170000" stop="20240502183000" channel="28.mytv">
-    <title lang="en">Suke Celeb</title>
-    <desc lang="en">Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
   </programme>
   <programme start="20240502183000" stop="20240502193000" channel="28.mytv">
     <title lang="en">Suke Hati</title>
@@ -8679,13 +9397,9 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <title lang="en">Suke Hati</title>
     <desc lang="en">Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
   </programme>
-  <programme start="20240503170000" stop="20240503180000" channel="28.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240503180000" stop="20240503183000" channel="28.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240503170000" stop="20240503183000" channel="28.mytv">
+    <title lang="en">Suke Celeb</title>
+    <desc lang="en">Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
   </programme>
   <programme start="20240503183000" stop="20240503193000" channel="28.mytv">
     <title lang="en">Suke Hati</title>
@@ -8791,10 +9505,6 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <title lang="en">Suke Hati</title>
     <desc lang="en">Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
   </programme>
-  <programme start="20240504170000" stop="20240504183000" channel="28.mytv">
-    <title lang="en">Suke Celeb</title>
-    <desc lang="en">Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
-  </programme>
   <programme start="20240504183000" stop="20240504193000" channel="28.mytv">
     <title lang="en">Suke Hati</title>
     <desc lang="en">Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
@@ -8895,13 +9605,9 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
     <title lang="en">Suke Hati</title>
     <desc lang="en">Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
   </programme>
-  <programme start="20240505170000" stop="20240505180000" channel="28.mytv">
-    <title lang="en">Program @ 1:00 AM</title>
-    <desc lang="en"/>
-  </programme>
-  <programme start="20240505180000" stop="20240505183000" channel="28.mytv">
-    <title lang="en">Program @ 2:00 AM</title>
-    <desc lang="en"/>
+  <programme start="20240505170000" stop="20240505183000" channel="28.mytv">
+    <title lang="en">Suke Celeb</title>
+    <desc lang="en">Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
   </programme>
   <programme start="20240505183000" stop="20240505193000" channel="28.mytv">
     <title lang="en">Suke Hati</title>
